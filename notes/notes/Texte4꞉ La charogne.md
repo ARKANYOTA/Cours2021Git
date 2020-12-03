@@ -1,8 +1,8 @@
 ---
-title: 'Texte4: La charogne'
 tags: [Francais/Travaux sur textes]
+title: 'Texte4: La charogne'
 created: '2020-11-19T16:09:28.908Z'
-modified: '2020-11-30T13:56:01.058Z'
+modified: '2020-12-03T16:14:10.770Z'
 ---
 
 # Texte4: La charogne
@@ -79,4 +79,46 @@ Expression de la fin : derniers sacrements, sous, 'herbe , moisir, vermine, mang
 hommonyme sur rimes : grâces --> grasses
 hommonyme sur rimes : vent --> van
 
+enjembement : explique par ce qui coule l 27
+
+S8:
+Vocabulaire artistique: formes n toilesn artiste ébauche(métpahopre) qui represente permet de fixée se qui s'oublie
+
+S9
+Se poeùe ne se passe pas en un temps de promenade mais est plus longs 
+impression de nourire la nature
+retour au récit avec cadre spatial
+2 strophe assez lyrique
+Plus de son en r son en rock
+mort erpapille et le peote rassemble
+
+emjembement 
+S10:
+Alchimie poetique
+ce tiret qui isole et marque un rupture
+
+Valeur de réflextion 
+rapel de la cycle de la vie(Memto mori)
+
+Futur de certitude (OUI Tel vous serait)
+Pation et Infection avec 2 diereze et amour ne permet pas d'achapter ce cycle la on peut parler d'hyperble
+2 dernier vers de cete strope font réferance a la plaiade
+Utilisation d'in topos poétique -> Mignene allons voirs 
+
+S11:
+Emploi du futue 
+ùoisir parmi les ocement
+RIMES GRACES meme si c44ESest une d2esse elle nourira les floraision et donnera des belles fleures
+dernier sacrement religieux, religo ou pas on nourira les plentes
+lien directe avec le squelette
+
+Enos et Thanatos = amour et mort
+
+
+personification vermine mangera de baisers
+Premier ocurance de je: dissocation de la femme et le poete 
+poesie et son art le preservera de la morts
+le poete appatient au devin et attaché a l'or et la femme a la boue
+
+unifier avant que sa se d"sagrege
 

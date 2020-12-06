@@ -1,8 +1,8 @@
 ---
-title: Commentaire et disertation
 tags: [Francais/PrisedeNotes]
+title: Commentaire et disertation
 created: '2020-11-20T12:26:54.071Z'
-modified: '2020-11-20T12:57:36.735Z'
+modified: '2020-12-04T13:08:27.337Z'
 ---
 
 # Commentaire et disertation 
@@ -49,3 +49,69 @@ Forme identique à celle d'une disseration:
   - Annonce du contenu de l'axe suivant
 
 Rédaction du 1^er^ paragraphe de chaque axe(Si pas de transition) ou du 1^er^axe (Si transition). Une première phrase qui annonce le contenu de l'axe.
+
+--- 
+
+### Etapes du commentaire au brouillon
+
+1. Lecture attentive
+2. Repérages généraux
+3. Enjeux et problématiques
+
+projet de lecture une chargogne:
+  Le texte décrit décomposition dun chraogne en décomosition et révelle la philosophie du temps qui passe.
+
+la problématique:
+  Comment la décomposition d'un charogne permet-elle d'évoquer le temps qui passe?
+
+I Description de la charogne
+ - A ) Toutes les etapes de décomposition
+ - B ) Commparaition de la charogne
+ - C ) Vie au tour de la mort / charogne 
+
+II Description du temps qui passe
+ - A ) Poeme du dure dans le temps
+ - B ) Tout Meurs un jour (Meme la plus belle des déesse)
+ - C ) Accompagement musical et artistique
+
+III 
+
+I) Description realiste de la charogne 
+  - A ) Toutes les etapes de la décomposition
+  - B ) 
+II) Imortalité du peoete
+  - A ) 
+  - B ) Art du poete et differance avec la femme
+
+III) Transfiguration de la charogne en or
+  - A ) Comparaison a une femme
+  - B ) Beauté quii se décompose
+
+(Element de )
+Introduction et Conclusion
+
+Description d'un obj non petique / Description realiste
+Trasnfiguration trasformation de l'objet en poetique
+Cycle de la nature (Poete grace a son art est imortelle)de la fuite du temps
+
+Tranfiguration en dernier
+Transformer la boue en or
+
+
+
+
+.
+;
+;
+;
+;
+;
+;
+;
+
+;;
+;
+;
+;
+;
+

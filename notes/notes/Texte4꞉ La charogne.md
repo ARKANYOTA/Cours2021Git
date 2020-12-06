@@ -2,7 +2,7 @@
 tags: [Francais/Travaux sur textes]
 title: 'Texte4: La charogne'
 created: '2020-11-19T16:09:28.908Z'
-modified: '2020-12-03T16:14:10.770Z'
+modified: '2020-12-04T12:45:01.903Z'
 ---
 
 # Texte4: La charogne
@@ -121,4 +121,18 @@ poesie et son art le preservera de la morts
 le poete appatient au devin et attaché a l'or et la femme a la boue
 
 unifier avant que sa se d"sagrege
+
+
+
+projet de lecture une chargogne:
+  Le texte décrit décomposition dun chraogne en décomosition et révelle la philosophie du temps qui passe.
+
+la problématique:
+  Comment la décomposition d'un charogne permet-elle d'évoquer le temps qui passe?
+
+I Description de la charogne
+ - A )
+
+II Description du temps qui passe
+ - A )
 

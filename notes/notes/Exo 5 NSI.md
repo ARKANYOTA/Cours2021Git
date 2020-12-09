@@ -1,8 +1,8 @@
 ---
-title: Exo 5 NSI
 tags: [NSI]
+title: Exo 5 NSI
 created: '2020-10-28T18:41:57.273Z'
-modified: '2020-10-28T18:42:29.320Z'
+modified: '2020-12-07T17:57:24.239Z'
 ---
 
 # Exo 5 NSI
@@ -31,3 +31,9 @@ Ordinateur à usage professionnel = 1981
 Premier Ordinateur Portable = 1982
 Premier ordinateur avec environnent graphique = 1983
 Loi de Moore = Nombres de transistor sur une même surface double tous les 18 mois
+
+
+aiguillew 
+second
+fils
+automne 

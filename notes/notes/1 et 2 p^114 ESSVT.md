@@ -1,7 +1,8 @@
 ---
+tags: [ESci]
 title: 1 et 2 p^114 ESSVT
 created: '2020-11-24T10:24:14.320Z'
-modified: '2020-11-24T10:29:50.987Z'
+modified: '2020-12-10T14:07:08.529Z'
 ---
 
 # 1 et 2 p^114 ESSVT

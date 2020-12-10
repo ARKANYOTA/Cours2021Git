@@ -1,7 +1,8 @@
 ---
+tags: [ESci]
 title: CARLISI Nolan 108 p117 Piste d'exploration
 created: '2020-12-07T15:44:58.319Z'
-modified: '2020-12-07T17:29:25.588Z'
+modified: '2020-12-10T14:06:51.694Z'
 ---
 
 # CARLISI Nolan 108 p117 Piste d'exploration

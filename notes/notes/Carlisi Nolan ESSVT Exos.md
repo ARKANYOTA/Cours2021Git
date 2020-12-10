@@ -1,7 +1,8 @@
 ---
+tags: [ESci]
 title: Carlisi Nolan ESSVT Exos
 created: '2020-11-24T09:29:12.208Z'
-modified: '2020-11-24T10:48:54.915Z'
+modified: '2020-12-10T14:06:55.502Z'
 ---
 
 # Carlisi Nolan ESSVT Exos

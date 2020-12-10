@@ -1,7 +1,8 @@
 ---
+tags: [ESci]
 title: Nolan Carlisi 108 ESPC Exos
 created: '2020-11-23T15:20:52.368Z'
-modified: '2020-11-30T19:47:29.845Z'
+modified: '2020-12-10T14:07:29.587Z'
 ---
 
 # Nolan Carlisi 108 ESPC Exos

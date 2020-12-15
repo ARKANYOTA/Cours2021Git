@@ -1,8 +1,10 @@
 ---
+tags: [GEO]
 title: GEO Londres
 created: '2020-11-30T09:35:19.228Z'
-modified: '2020-11-30T11:08:40.188Z'
+modified: '2020-12-14T14:30:14.965Z'
 ---
+
 
 # GEO Londres
 
@@ -39,3 +41,13 @@ Une ville avec forte activité culturel
 
 Débat entre 2 personnes pour  savoir si ils vont a londre ou restenet a paris:
   - w
+
+
+
+# Th1. Chapitre 2
+ Quels sont les effets de la métropolisation sur le territoire français
+
+## I) Etude de cas
+
+
+

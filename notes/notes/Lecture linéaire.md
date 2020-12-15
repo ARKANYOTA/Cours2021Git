@@ -1,8 +1,8 @@
 ---
+tags: [Francais, Francais/PrisedeNotes]
 title: Lecture linéaire
-tags: [Francais, Francais/Methode]
 created: '2020-10-28T23:03:21.568Z'
-modified: '2020-11-02T12:33:15.783Z'
+modified: '2020-12-12T20:37:00.115Z'
 ---
 
 # Lecture linéaire

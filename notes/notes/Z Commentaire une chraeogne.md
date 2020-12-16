@@ -2,7 +2,7 @@
 tags: [Francais/Exo]
 title: Z Commentaire une chraeogne
 created: '2020-12-10T22:49:35.999Z'
-modified: '2020-12-11T12:39:59.963Z'
+modified: '2020-12-16T07:09:34.093Z'
 ---
 
 # Z Commentaire une chraeogne
@@ -63,14 +63,17 @@ Le texte décrit décomposition d’un charogne en décomposition et révèle la
 I Description de la charogne
 - A ) Toutes les étapes de décomposition
 - B ) Vie autour de la mort / charogne
+```
 
+
+```
 II Description du temps qui passe
 - A ) Poème du dure dans le temps
 - B ) Accompagnement musical et artistique
 
 III) Transfiguration de la charogne en or
-A ) Comparaison a une femme
-B ) Beauté qui se décompose
+- A ) Comparaison a une femme
+- B ) Beauté qui se décompose
 
 
 Ainsi nous avons vu comment il peut exprimer le temps qui passe avec un accompagnement musical tout en parlant aussi de toutes les étapes de décomposition la charogne en exprimant en la comparant a une femme. 

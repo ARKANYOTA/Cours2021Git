@@ -2,7 +2,7 @@
 tags: [Francais/Exo]
 title: Z Commentaire une chraeogne 2
 created: '2020-12-16T07:10:10.863Z'
-modified: '2020-12-16T10:36:13.039Z'
+modified: '2020-12-17T20:37:54.319Z'
 ---
 
 # Z Commentaire une chraeogne 2
@@ -20,7 +20,9 @@ cette charogne en or.
 **3,5/6**
 
 
-  Pour le lecteur une charogne est par définition plutôt répugnant, plutot pauvre, mais Baudelaire 
+  Pour le lecteur une charogne est par définition plutôt répugnant, plutot pauvre, mais Baudelaire à beaucoup de chose a dire pour décrire cette charogne comme décrire l'avencemennt de la décomposition et de la vie autour.
+  Il arive à décrire les étapes de la décomposition "des mouches bourdonaient" qui est la première etape de la décomposition puis "De larve, qui coulait comme un épais liquide". Le lecteur comprends aussi Il y a de la vie dans la mort. Avec c'est mouches aux alentours, "Comme une fleur s'épanouir", des larves qui arrivent en abondance, et aussi le mouvement qui fait vivre cette animal comme le mouvement de l'eau "montait comme une vague", "Comme l'eau courante et le vent," avec une personification à l'eau courante qui renforce l'idée de vie.
+  Il arrive donc a transformer la charogne morte en charogne vivante tout en expliquant les étapes de sa décomposition. 
 I Description de la charogne
 - A ) Toutes les étapes de décomposition
 - B ) Vie autour de la mort / charogne

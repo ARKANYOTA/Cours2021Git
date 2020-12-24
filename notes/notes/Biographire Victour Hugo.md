@@ -1,8 +1,9 @@
 ---
-title: Biographire Victour Hugo
+deleted: true
 tags: [Francais/Exo]
+title: Biographire Victour Hugo
 created: '2020-11-04T19:31:19.945Z'
-modified: '2020-11-04T21:33:41.448Z'
+modified: '2020-12-16T07:02:56.199Z'
 ---
 
 # Biographire Victour Hugo

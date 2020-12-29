@@ -2,7 +2,7 @@
 tags: [ESci]
 title: A. ESPC 4p195 6p196 "pour s'entraîner"p192
 created: '2020-12-29T13:25:36.771Z'
-modified: '2020-12-29T15:03:22.403Z'
+modified: '2020-12-29T15:27:39.402Z'
 ---
 
 # A. ESPC 4p195 6p196 "pour s'entraîner"p192
@@ -29,8 +29,8 @@ $Meridien = 2\pi 6361 = 3,997 * 10^{4} km$
 
 ## 6p196
 
-1) $[BC] = a$
-$a/sin(\hat{A}) = c/sin(\hat{C}) <=> a = \frac{c*sin(\hat{A})}{sin(\hat{C})}$
+$[BC] = a$
+$\frac{a}{sin(\hat{A})} = \frac{c}{sin(\hat{C})} <=> a = \frac{c*sin(\hat{A})}{sin(\hat{C})}$
 
 $a = \frac{10,0*sin(70)}{sin(60)} = 10.8 km$
 $a = d = 10.8km$
@@ -40,11 +40,19 @@ $c'/sin(\hat{C'}) = \frac{d}{sin(\hat{D})}$
 $c' = \frac{d*sin(\hat{C'})}{sin(\hat{D})}$
 $c' = \frac{10.8*sin(50)}{sin(65)} = 9.13km = e$
 
-$b'/sin(\hat{B'}) = e/sin(\hat{E})$
-$b' = e*sin(\hat{B'})/sin(\hat{E})$
-$b' = 9.13*sin(30)/sin(80)) = 4.63km$
+$\frac{b'}{sin(\hat{B'})} = \frac{e}{sin(\hat{E})}$
+$b' = \frac{e*sin(\hat{B'})}{sin(\hat{E})}$
+$b' = \frac{9.13*sin(30)}{sin(80))} = 4.63km$
 
 ##  "pour s'entraîner"p192
 
-$TI/sin(Ê) = EI/sin(\hat T)$
-\frac{}{}
+$\frac{TI}{sin(Ê)} = \frac{EI}{sin(\hat T)}$
+$TI = \frac{EI*sin(Ê)}{sin(\hat T)}$
+
+$\hat T = 27°90' = 27+\frac{90}{60} = 28.5°$
+$\hat E = 41°05' = 45+\frac{5}{60} = 45.0833333333333333333°$
+
+$TI = \frac{1.3*sin(45.083333333)}{sin(28.5)}$
+$TI = \frac{1.3*sin(45.083333333)}{sin(28.5)} = 1.929km$
+
+

@@ -1,11 +1,11 @@
 ---
 tags: [ESci]
-title: A. ESPC 4p195 6p196 "pour s'entraîner"p192
+title: 'ESPC CARLISI Nolan 108: Exo(4p195, 6p196 et "pour s''entraîner"p192)'
 created: '2020-12-29T13:25:36.771Z'
-modified: '2020-12-29T15:27:39.402Z'
+modified: '2021-01-01T13:58:22.689Z'
 ---
 
-# A. ESPC 4p195 6p196 "pour s'entraîner"p192
+# ESPC CARLISI Nolan 108: Exo(4p195, 6p196 et "pour s'entraîner"p192)
 
 ## 4p195)
 

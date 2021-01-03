@@ -1,0 +1,26 @@
+{
+  "editor": {
+    "states": "[[\"/home/ay/Documents/Cours2021Git/notes/Untitled (2).md\",{\"id\":\"/home/ay/Documents/Cours2021Git/notes/Untitled (2).md\",\"history\":{\"past\":[],\"future\":[]},\"view\":{\"cursorState\":[{\"inSelectionMode\":false,\"selectionStart\":{\"lineNumber\":1,\"column\":1},\"position\":{\"lineNumber\":1,\"column\":1}}],\"viewState\":{\"scrollLeft\":0,\"firstPosition\":{\"lineNumber\":1,\"column\":1},\"firstPositionDeltaTop\":10},\"contributionsState\":{\"editor.contrib.folding\":{\"lineCount\":1,\"provider\":\"syntax\"},\"editor.contrib.wordHighlighter\":false}},\"model\":null}],[\"/home/ay/Documents/Cours2021Git/notes/notes/0000000000000 First Doc.md\",{\"id\":\"/home/ay/Documents/Cours2021Git/notes/notes/0000000000000 First Doc.md\",\"history\":{\"past\":[],\"future\":[]},\"view\":{\"cursorState\":[{\"inSelectionMode\":false,\"selectionStart\":{\"lineNumber\":1,\"column\":1},\"position\":{\"lineNumber\":1,\"column\":1}}],\"viewState\":{\"scrollLeft\":0,\"firstPosition\":{\"lineNumber\":1,\"column\":1},\"firstPositionDeltaTop\":10},\"contributionsState\":{\"editor.contrib.folding\":{\"lineCount\":3,\"provider\":\"syntax\"},\"editor.contrib.wordHighlighter\":false}},\"model\":null}]]"
+  },
+  "tabs": {
+    "all": "[[\"/home/ay/Documents/Cours2021Git/notes/notes/0000000000000 First Doc.md\",false]]",
+    "current": "\"/home/ay/Documents/Cours2021Git/notes/notes/0000000000000 First Doc.md\""
+  },
+  "tags": {
+    "collapsed": "[]",
+    "current": "[\"__NOTABLE_NOTES_ALL__\"]"
+  },
+  "multiEditor": {
+    "selected": "[\"/home/ay/Documents/Cours2021Git/notes/notes/0000000000000 First Doc.md\"]"
+  },
+  "preview": {
+    "states": "[[\"/home/ay/Documents/Cours2021Git/notes/notes/0. Anglais.md\",{\"id\":\"/home/ay/Documents/Cours2021Git/notes/notes/0. Anglais.md\",\"scrollTop\":0,\"scrollLeft\":0}],[\"/home/ay/Documents/Cours2021Git/notes/notes/0000000000000 First Doc.md\",{\"id\":\"/home/ay/Documents/Cours2021Git/notes/notes/0000000000000 First Doc.md\",\"scrollTop\":0,\"scrollLeft\":0}],[\"/home/ay/Documents/Cours2021Git/notes/Untitled (2).md\",{\"id\":\"/home/ay/Documents/Cours2021Git/notes/Untitled (2).md\",\"scrollTop\":0,\"scrollLeft\":0}],[\"quick-modal-help-settings\",{\"id\":\"quick-modal-help-settings\",\"scrollTop\":0,\"scrollLeft\":0}]]"
+  },
+  "search": {
+    "query": "\"\"",
+    "recents": "[]"
+  },
+  "spellChecker": {
+    "overrides": "[]"
+  }
+}

@@ -2,7 +2,7 @@
 tags: [ESci]
 title: 'ESPC CARLISI Nolan 108: Exo(4p195, 6p196 et "pour s''entraîner"p192)'
 created: '2020-12-29T13:25:36.771Z'
-modified: '2021-01-01T13:58:22.689Z'
+modified: '2021-01-05T13:04:15.835Z'
 ---
 
 # ESPC CARLISI Nolan 108: Exo(4p195, 6p196 et "pour s'entraîner"p192)
@@ -10,7 +10,7 @@ modified: '2021-01-01T13:58:22.689Z'
 ## 4p195)
 
 1) Points Commun:
-    - On definit une portion d'un méridien, un angles et une distance le long d'un méridien 
+    - On definit une portion d'un méridien, un angles et une distance le long d'un méridien, basé sur l'ombre du soleil
     
     Differance:
     - Pas le même angle et pas la meme distance
@@ -48,7 +48,7 @@ $b' = \frac{9.13*sin(30)}{sin(80))} = 4.63km$
 
 $\frac{TI}{sin(Ê)} = \frac{EI}{sin(\hat T)}$
 $TI = \frac{EI*sin(Ê)}{sin(\hat T)}$
-
+--FALSE--
 $\hat T = 27°90' = 27+\frac{90}{60} = 28.5°$
 $\hat E = 41°05' = 45+\frac{5}{60} = 45.0833333333333333333°$
 

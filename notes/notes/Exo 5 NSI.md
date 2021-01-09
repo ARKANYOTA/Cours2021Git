@@ -2,7 +2,7 @@
 tags: [NSI]
 title: Exo 5 NSI
 created: '2020-10-28T18:41:57.273Z'
-modified: '2020-12-07T17:57:24.239Z'
+modified: '2021-01-09T21:29:11.939Z'
 ---
 
 # Exo 5 NSI
@@ -37,3 +37,4 @@ aiguillew
 second
 fils
 automne 
+

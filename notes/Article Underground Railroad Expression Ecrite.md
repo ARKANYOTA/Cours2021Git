@@ -1,8 +1,9 @@
 ---
+attachments: [Clipboard_2021-01-09-21-15-04.png]
 tags: [Anglais/Exo]
 title: Article Underground Railroad Expression Ecrite
 created: '2021-01-07T13:54:54.241Z'
-modified: '2021-01-09T13:26:41.234Z'
+modified: '2021-01-09T21:23:31.588Z'
 ---
 
 # 2) Article Underground Railroad Expression Ecrite
@@ -32,7 +33,7 @@ Célébration du Mois de l'histoire des Noirs. Choisissez un personnage historiq
 ## Checklist
 La consigne
 
-- [ ] J’identifie la consigne.
+- [x] J’identifie la consigne.
   - Décrire
   - Comparer
   - Expliquer
@@ -40,13 +41,13 @@ La consigne
   - Donner son opinion
   - Raconter
 
-- [ ]  Pour un devoir maison, je fais des recherches de données, de lexique et d’illustrations.
+- [x]  Pour un devoir maison, je fais des recherches de données, de lexique et d’illustrations.
 
 Au brouillon
 
-- [ ]  Brainstorming : j’écris TOUS les mots qui me viennent à l’esprit. J’ajoute des synonymes, antonymes, verbes, adjectifs…
+- [x]  Brainstorming : j’écris TOUS les mots qui me viennent à l’esprit. J’ajoute des synonymes, antonymes, verbes, adjectifs…
 
-- [ ]  Je fais une carte mentale pour organiser les mots du brainstorming.
+- [x]  Je fais une carte mentale pour organiser les mots du brainstorming.
 
 - [ ] Je fais un plan détaillé (idées principales pour deux ou trois parties). Un paragraphe = une idée.
 
@@ -160,15 +161,25 @@ Ce qui a fait
 
 
 
-# Contexte
-  Civil War
-  underground Railraod
-  The slavery at 19th centuary are very practice. In 1860, this is four million of the 32 million Americans were black slaves.
-  The Civil Wars start at April 12, 1861 and end at May 9, 1865.
-  And a network of secrets routes are build 
-# Who is Frederick Douglass 
+# Contextualization
+  
+## Civil War
+A network of secrets route are build by African-Americans to escape into free states and Canada for go at the foreigner and this is underground Railroad formed in the late 1700s and after The Civil Wars who start at April 12, 1861 and end at May 9, 1865.
 
-# What he does
+Now it's time for speak of Frederick Douglass
+(1818 – 1895) He born with a slave mother and he don't know his father
+
+### Who do differance
+Frederick is famous for his orations for defand black race and women's right
+He write for share about Americans slave trave 
+He made "The North Star" Journal, it's a antislavery newspaper. with first published on 1847. Published weekly, the journal it's readed in the United States, Europe, and the West Indies. 
+He speek of slave with a bondman’s viewpoint
+
+He also help for "Reconstruction" periode after the Civil War
 
 
 https://en.wikipedia.org/wiki/Frederick_Douglass
+https://en.wikipedia.org/wiki/American_Civil_War
+https://simple.wikipedia.org/wiki/American_Civil_War
+
+![](@attachment/Clipboard_2021-01-09-21-15-04.png)

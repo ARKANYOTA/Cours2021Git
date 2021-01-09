@@ -1,12 +1,18 @@
 ---
 tags: [Anglais/Exo]
-title: Article Underground Railroad
+title: Article Underground Railroad Expression Ecrite
 created: '2021-01-07T13:54:54.241Z'
-modified: '2021-01-08T13:30:48.698Z'
+modified: '2021-01-09T13:26:41.234Z'
 ---
 
-# 2) Article Underground Railroad
+# 2) Article Underground Railroad Expression Ecrite
 
+# Regles
+
+Black History Month celebration. Choose a historical character. Do, some research and prepare an article to participate in the editing of leaflet to pay tribute to the heroes of UR.
+
+---
+Célébration du Mois de l'histoire des Noirs. Choisissez un personnage historique. Faites, quelques recherches et préparez un article pour participer à l'édition du dépliant pour rendre hommage aux héros d'UR.
 # Aide
 
 ## levels 
@@ -128,10 +134,41 @@ Raconter (les temps du passé)
 
 ## ToDO
 
+- Faire recherche sur internet
 - Utilisée le plus de voc possible
+- Presanter le personnage {s'est action qui ont fait la differnace, }
+- Utiliser le vocabulaire de Undergroud Railraod*
+- Lui rendre homage
+
+Niveau 4
+- Artcicle complet et rend hommage au personnage et son role dans UR
+- Hieriracheration des idée
+- Apport d'élement culturel autre que ceux qui sont édudier
 - 
 
 
 # Texte 
 
-John H. Brown 
+Presantation de UR:
+
+Présantation du personnage
+
+Ce qui a fait
+  Ce qui a fait
+  Ce qui a permis de liberer les esclaves
+  Ce qui a fait la differance
+
+
+
+# Contexte
+  Civil War
+  underground Railraod
+  The slavery at 19th centuary are very practice. In 1860, this is four million of the 32 million Americans were black slaves.
+  The Civil Wars start at April 12, 1861 and end at May 9, 1865.
+  And a network of secrets routes are build 
+# Who is Frederick Douglass 
+
+# What he does
+
+
+https://en.wikipedia.org/wiki/Frederick_Douglass

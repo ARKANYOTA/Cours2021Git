@@ -1,11 +1,11 @@
 ---
 tags: [ESci]
-title: A.4p195 - 6p196 et "pour s'entrainer" p 192
+title: C.4p195 - 6p196 et "pour s'entrainer" p 192
 created: '2020-12-23T15:21:02.956Z'
-modified: '2020-12-23T16:27:06.716Z'
+modified: '2021-01-09T13:33:36.859Z'
 ---
 
-# A.4p195 - 6p196 et "pour s'entrainer" p 192
+# C.4p195 - 6p196 et "pour s'entrainer" p 192
 
 ## 4p195)
 $\widehat{C} = \alpha = 4.9° = rad$

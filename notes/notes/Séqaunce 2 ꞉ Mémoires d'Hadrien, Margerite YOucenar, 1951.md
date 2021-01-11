@@ -2,7 +2,7 @@
 tags: [Francais/SpleenIdeal]
 title: 'Séqaunce 2 : Mémoires d''Hadrien, Margerite YOucenar, 1951'
 created: '2020-12-14T12:24:26.613Z'
-modified: '2021-01-07T15:59:43.810Z'
+modified: '2021-01-11T13:09:35.718Z'
 ---
 
 # 2. Séqaunce 2 : Mémoires d'Hadrien, Margerite YOucenar, 1951 
@@ -124,3 +124,32 @@ Il reprend la categorie des "héros" qui font des exploit qu'il definit par une 
 Hadrien regrette sa vie, qui ne s'inscrit dans aucune catégorie utile et admirable:les grand hommes et les artisans
 
 p307-308
+
+
+
+
+# B. 64-66 
+L'histoire d'un soldat trop lettré de "Un cert ainn nombre d'actions d'éclat..." à " ... me actes ne formaient"
+
+cynisme : refuser bien matieriel, peux de respect pour la hierachie s'en fout des lien scosiaux, mais utilisé ici => humour noir 
+métaphore : etre gisée = etre ivre de autre chose que le vin
+
+
+
+Illistre parfaitement: le titre du chapitre: varié multiple changamnt
+
+Le titre est confirmé par le fait que il parle de choses variées en quantité 
+
+Le texte commance par Un certain nombre d'ations d'éclats, qui signifie que le texte annonce une multitue de chose a dire. 
+
+
+
+Hadrien adopte de nombreuse peronnalité(héberger métaphore): "persona" latin -> rôle (théatre) -> Nous montre que il rendre dans le role que on veux lui faire jouer -> 
+Role dont on parle {
+  Officier de  métiqueleux qui est fanatique de disipliqne qui partage les privation 
+  
+}
+gradation
+
+
+

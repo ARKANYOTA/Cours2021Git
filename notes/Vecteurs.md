@@ -2,12 +2,12 @@
 tags: [Maths, Maths/4.Vecteurs]
 title: Vecteurs
 created: '2021-01-08T13:40:06.100Z'
-modified: '2021-01-08T14:10:52.811Z'
+modified: '2021-01-12T11:05:16.370Z'
 ---
 
 # 4. Vecteurs
 
-$\overrightarrow{u} · \overrightarrow{v} = |\overrightarrow{u}| * |\overrightarrow{v}| * cos(\overrightarrow{u}, \overrightarrow{v})$ avec $\overrightarrow{u} et \overrightarrow{v}$ non nuls
+$\overrightarrow{u} · \overrightarrow{v} = ||\overrightarrow{u}|| * ||\overrightarrow{v}|| * cos(\overrightarrow{u}, \overrightarrow{v})$ avec $\overrightarrow{u} et \overrightarrow{v}$ non nuls
 
 u·v est othogonal (Angle droit) alors u·v = 0
 
@@ -15,5 +15,41 @@ $||\overrightarrow{u}|| = \sqrt{x²+y²}$
 $\vec{bon}$
 
 U. V=(1+m)*m+1*(1-m)
+
+---
+
+$\vec{AB} · \vec{AC} = AB*AC*cos(\hat{BAC}) \rightarrow nombre$
+RON = Repèrez orthonormé 
+$A(x_A, y_A)$
+$B(x_B, y_B)$ 
+$\vec{AB}(x_B - x_A; y_B-y_A)$
+$AB = \sqrt{(x_B-x_A²) + (y_B-y_A)²}$
+
+$\vec{u}$ et $\vec{u}$ sont $orthogonaux$ ou que $\vec{u}$ est $orthogonal$ à $\vec{v}$ si $\overrightarrow{u} · \overrightarrow{v} = 0$ (les droites des vecteurs sont perpendiculaires)
+
+## Demonter les équations
+
+- $\overrightarrow{u} · \overrightarrow{v} = \frac{1}{2}||\overrightarrow{u} + \overrightarrow{v}||² - |\overrightarrow{u}||² - ||\overrightarrow{v}||²$
+- $\overrightarrow{u} · \overrightarrow{v} = xx'+yy'$ avec $\overrightarrow{u}(x; y) · \overrightarrow{v}(x'; y')$
+
+Preuve $(*)=> (**)$
+  - $\vec{u}+\vec{v}(x+x'; y+y')$ 
+  - $||\overrightarrow{u} + \overrightarrow{v}||² = (x; x')² + (y; y')²$
+  -  $\overrightarrow{u} · \overrightarrow{v} = \frac{1}{2}((x+x')² + (y+y') - (x²+y²) - (x'²+y'²)))$
+  -  $\overrightarrow{u} · \overrightarrow{v} = \frac{1}{2}(x²+2xx'+x'²+y²+2yy'+y'²-x²-y²-x'²-y'²)$
+  -  $\overrightarrow{u} · \overrightarrow{v} = \frac{1}{2}(2xx'+2yy')$
+  -  $\overrightarrow{u} · \overrightarrow{v} = xx'+yy'$
+
+
+### Exos
+
+9 p 250)
+a )   $\overrightarrow{u} · \overrightarrow{v} = 1*3+2*-1 = 1$
+b )   $\overrightarrow{u} · \overrightarrow{v} = -1*12+3*7 = 9$
+c )   $\overrightarrow{u} · \overrightarrow{v} = xx'+yy'$
+
+
+
+
 
 

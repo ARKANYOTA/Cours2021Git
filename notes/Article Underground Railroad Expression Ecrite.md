@@ -3,7 +3,7 @@ attachments: [Clipboard_2021-01-09-21-15-04.png]
 tags: [Anglais/Exo]
 title: Article Underground Railroad Expression Ecrite
 created: '2021-01-07T13:54:54.241Z'
-modified: '2021-01-09T21:23:31.588Z'
+modified: '2021-01-13T20:41:34.176Z'
 ---
 
 # 2) Article Underground Railroad Expression Ecrite
@@ -49,21 +49,21 @@ Au brouillon
 
 - [x]  Je fais une carte mentale pour organiser les mots du brainstorming.
 
-- [ ] Je fais un plan détaillé (idées principales pour deux ou trois parties). Un paragraphe = une idée.
+- [x] Je fais un plan détaillé (idées principales pour deux ou trois parties). Un paragraphe = une idée.
 
-- [ ] Je choisis des mots de liaison.
+- [x] Je choisis des mots de liaison.
 
 - [ ] Je réfléchis aux temps à employer.
 
 Rédaction
 
-- [ ]  J’organise ma présentation.
+- [x]  J’organise ma présentation.
 
-- [ ]  Je rédige ensuite l’introduction.
+- [x]  Je rédige ensuite l’introduction.
 
-- [ ] Je fais des paragraphes en sautant des lignes.
+- [x] Je fais des paragraphes en sautant des lignes.
 
-- [ ] Je relis mon devoir.
+- [x] Je relis mon devoir.
 
 ## Mots de laisions
 
@@ -164,22 +164,15 @@ Ce qui a fait
 # Contextualization
   
 ## Civil War
-A network of secrets route are build by African-Americans to escape into free states and Canada for go at the foreigner and this is underground Railroad formed in the late 1700s and after The Civil Wars who start at April 12, 1861 and end at May 9, 1865.
+# What is UnderGorund Railroad
+--> A network of secrets routes are build and use by slave African-Americans to escape into free states and Canada and go at the foreigner and the name of this is “underground Railroad” formed in the late 1700s and after, The Civil Wars start at April 12, 1861 and end at May 9, 1865. And after this, it's time for period of the Reconstruction who end at 1877.
 
-Now it's time for speak of Frederick Douglass
-(1818 – 1895) He born with a slave mother and he don't know his father
+--> Now it's time for speak of Frederick Douglass (1818 – 1895) He born into slave with a slave mother, and he doesn't know his father. Frederick is famous for his orations for defend black race and women's right.
 
-### Who do differance
-Frederick is famous for his orations for defand black race and women's right
-He write for share about Americans slave trave 
-He made "The North Star" Journal, it's a antislavery newspaper. with first published on 1847. Published weekly, the journal it's readed in the United States, Europe, and the West Indies. 
-He speek of slave with a bondman’s viewpoint
+--> His actions make the difference for end slavery, and rebuild after this Civil War, make knows at everyone Underground Railroad. 
 
-He also help for "Reconstruction" periode after the Civil War
+--> He made “The North Star” Journal, it's an antislavery newspaper, with first published on 1847. Published weekly, the journal was read in the United States, Europe, and the West Indies.
+He speaks of slave with a bondman’s viewpoint, because they are an old slave.
+He writes for share about Americans slave trade, and he has very helpful for make known the conditions of slaves.
+He also helped for “Reconstruction” period after the Civil War.
 
-
-https://en.wikipedia.org/wiki/Frederick_Douglass
-https://en.wikipedia.org/wiki/American_Civil_War
-https://simple.wikipedia.org/wiki/American_Civil_War
-
-![](@attachment/Clipboard_2021-01-09-21-15-04.png)

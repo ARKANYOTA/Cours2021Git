@@ -1,7 +1,7 @@
 ---
 title: les adjectif numeraux sont invariable sauf 20 et 100
 created: '2020-11-23T18:23:59.864Z'
-modified: '2021-01-04T18:29:47.555Z'
+modified: '2021-01-11T18:18:26.020Z'
 ---
 
 # les adjectif numeraux sont invariable sauf 20 et 100
@@ -22,3 +22,5 @@ short
 aiguille
 parfum
 second
+
+oignon

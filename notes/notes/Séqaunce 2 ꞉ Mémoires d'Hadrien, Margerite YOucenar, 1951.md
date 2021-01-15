@@ -1,8 +1,8 @@
 ---
-tags: [Francais/SpleenIdeal]
+tags: [Francais/Travaux sur textes]
 title: 'Séqaunce 2 : Mémoires d''Hadrien, Margerite YOucenar, 1951'
 created: '2020-12-14T12:24:26.613Z'
-modified: '2021-01-11T13:09:35.718Z'
+modified: '2021-01-14T16:14:26.883Z'
 ---
 
 # 2. Séqaunce 2 : Mémoires d'Hadrien, Margerite YOucenar, 1951 
@@ -129,6 +129,7 @@ p307-308
 
 
 # B. 64-66 
+
 L'histoire d'un soldat trop lettré de "Un cert ainn nombre d'actions d'éclat..." à " ... me actes ne formaient"
 
 cynisme : refuser bien matieriel, peux de respect pour la hierachie s'en fout des lien scosiaux, mais utilisé ici => humour noir 
@@ -147,9 +148,56 @@ Le texte commance par Un certain nombre d'ations d'éclats, qui signifie que le 
 Hadrien adopte de nombreuse peronnalité(héberger métaphore): "persona" latin -> rôle (théatre) -> Nous montre que il rendre dans le role que on veux lui faire jouer -> 
 Role dont on parle {
   Officier de  métiqueleux qui est fanatique de disipliqne qui partage les privation 
-  
 }
 gradation
+
+C'est pas un gas prétentieu
+il a un interet dans l
+sa rappele les passages dappres, 
+sa montre se qui se passe ds la suite du doc 
+il reprend les themes qui y a pendat qui sont appres
+il rentre pas touhour dans un role il est defoit dans aucun role et le roman le racontes aussi c'est moment d'inactios
+
+
+# 138-139 
+
+
+L'interet est de monter de Hadrien a differant mériant durant son règne d'empeureur. (vie militaire, comptable, juge, mefecin ambulant, ouvrier, survaillant de navires) Mais aussi il sert a les lister.
+avec un gradation du plus pres du metier d'empreur au plus loin.
+Definr ce quest un empeureur romain pour hadien et yourcenar. 
+A expliquer que il fait parti de une lingées/ de sages qui se succedes,(Pyhahore, laton, et une douzaine d'autres)
+Et de conclure avec ce que il est maintenant(Dans son maintenant du lhistoire)
+
+
+# 203−205 « nous partime dans loasis... limense victime morte.»
+
+Interet est de La force de Hadrien 
+Paticipe a un loisir 
+scene de chasse
+Qqchu d'intropsectif, 
+C'est durant son regne d'empreur
+- Aspect poetique d'un loisir (la chasse)
+- ou hadien est pas dans un rôle. 
+- 
+
+Il est un felin comme les autres quand il va mourir. Analogie 
+Il fait un raport entre lui est le lion 
+il a fait cette analogie au moment de sa mort
+
+Quand il parle que le lion qui
+"Il ne me fut pas "
+Il est diviniser "l'une des face les plus divine" 
+trophée 
+carachtére poétique:
+- cette accumulation Le grand chat couleur de désert, de miel et de soleil
+- Antimaous, regarde le fleurs alors que ils chasent
+- le beau mufle térible
+- on dirait que il y a un accompagement musical dans cette scene de chasse
+- il est ramener a sa famile au truc le plus simple au felin et comme dans sa vrai vie, il se ramene en tant que simple humain
+- fait pensé a de la grandeur de son entèrement
+- 
+
+
 
 
 

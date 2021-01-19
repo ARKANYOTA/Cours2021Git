@@ -1,11 +1,11 @@
 ---
-tags: [ESci]
-title: 'A. ESSVT Thème 2. Le soleil, notre source d’énergie.'
+tags: [ESci, ESci/Corrige]
+title: 'C. ESSVT Thème 2. Le soleil, notre source d’énergie.'
 created: '2021-01-09T13:33:07.711Z'
-modified: '2021-01-09T18:20:43.397Z'
+modified: '2021-01-18T15:05:07.894Z'
 ---
 
-# A. ESSVT Thème 2. Le soleil, notre source d’énergie.
+# C. ESSVT Thème 2. Le soleil, notre source d’énergie.
 
 ### Montrer qu’une mise en relation des deux documents peut constituer une= argument en faveur de l’origine biologique des combustibles.
 

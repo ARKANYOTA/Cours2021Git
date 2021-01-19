@@ -2,7 +2,7 @@
 tags: [Francais/Exo]
 title: B. 64-66
 created: '2021-01-11T12:20:05.348Z'
-modified: '2021-01-11T12:53:30.879Z'
+modified: '2021-01-18T12:26:18.246Z'
 ---
 
 # B. 64-66 
@@ -17,4 +17,5 @@ Illistre parfaitement: le titre du chapitre: varié multiple changamnt
 Le titre est confirmé par le fait que il parle de choses variées en quantité 
 
 Le texte commance par Un certain nombre d'ations d'éclats, qui signifie que le texte annonce une multitue de chose a dire. 
+
 

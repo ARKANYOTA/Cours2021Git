@@ -2,7 +2,7 @@
 tags: [Maths, Maths/4.Vecteurs]
 title: Vecteurs
 created: '2021-01-08T13:40:06.100Z'
-modified: '2021-01-15T10:30:00.945Z'
+modified: '2021-01-15T16:00:39.749Z'
 ---
 
 # 4. Vecteurs
@@ -43,11 +43,16 @@ Preuve $(*)=> (**)$
 
 ### Exos
 
-9 p 250)
-a )   $\overrightarrow{u} · \overrightarrow{v} = 1*3+2*-1 = 1$
-b )   $\overrightarrow{u} · \overrightarrow{v} = -1*12+3*7 = 9$
-c )   $\overrightarrow{u} · \overrightarrow{v} = xx'+yy'$
+AB . BC = 
 
+
+
+
+# Regles de calcul:
+
+$\vec{u} . \vec{u} = ||\vec u|| * ||\vec u|| * cos(\vec u , \vec u)$
+$= ||\vec u||* ||\vec u || * 1$
+$= \vec{u}² = ||\vec u||²$
 
 
 # Produit scalaire maths et tiques:
@@ -60,9 +65,9 @@ Norme = Sa longeur $||\vec{u}|| = AB$
 Produit scalaire : de $\vec{u} . \vec{v}$ 
 
 $\vec{u} . \vec{v} = 0$ si un des 2 vecteur est nul
-Sinon $\vec{u} . \vec{v} = ||vec{u}|| * ||\vec{v}|| * cos(\vec u; \vec v)$ si un des 2 vecteur est nul
+Sinon $\vec{u} . \vec{v} = ||\vec{u}|| * ||\vec{v}|| * cos(\vec u; \vec v)$ si un des 2 vecteur est nul
 
-$\vec{u} . \vec{v} = $\vec{v} . \vec{u}$
+$\vec{u} . \vec{v} = \vec{v} . \vec{u}$
 
 Les thecique de identité rematrkqable marche avec les produit skalaire
 
@@ -78,19 +83,7 @@ vec u et v sont othogonaux si u.v = 0
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ e hhn
 
 
 

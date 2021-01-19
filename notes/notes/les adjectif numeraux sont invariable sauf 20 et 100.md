@@ -1,7 +1,7 @@
 ---
 title: les adjectif numeraux sont invariable sauf 20 et 100
 created: '2020-11-23T18:23:59.864Z'
-modified: '2021-01-11T18:18:26.020Z'
+modified: '2021-01-18T18:32:09.315Z'
 ---
 
 # les adjectif numeraux sont invariable sauf 20 et 100
@@ -24,3 +24,15 @@ parfum
 second
 
 oignon
+
+faon taon paon mais lycaon
+laitue
+poêle 
+écho
+abbé / abbaye
+
+aigu => aigüe
+aucun
+
+baril
+bœuf

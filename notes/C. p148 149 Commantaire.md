@@ -1,11 +1,11 @@
 ---
 tags: [Francais/Exo]
-title: A. p148 149 Commantaire
+title: C. p148 149 Commantaire
 created: '2021-01-10T16:28:14.690Z'
-modified: '2021-01-15T02:33:02.772Z'
+modified: '2021-01-18T12:25:10.604Z'
 ---
 
-# A. p148 149 Commantaire
+# C. p148 149 Commantaire
 
 ## Used
 Antithes secret =/= clair

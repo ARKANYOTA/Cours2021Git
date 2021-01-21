@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Comment faire une page en HTML</title>
+		<link rel="stylesheet" type="text/css" href="index.css"/>
+	</head>
+	<body>
+		<h1>Avez vous juste?</h1>
+		<p id="reponse" style="color: red">Vous n'avez pas reussi, Regardez les réponses.</p>
+		<script> 
+			if(window.location.search == "?Q1=form&Q2=post"){
+				document.getElementById('reponse').innerHTML = "Bravo vous avez reussi.";
+				document.getElementById('reponse').style.color = "green";
+			} 
+		</script>
+		<h1>Solutions:</h1>
+		<p><strong><u>Question 1:</u></strong> En HTML, un formulaire commence par quelle balise?</p>
+		<p class="presp"> &#60;form&#62; </p>
+		<p><strong><u>Question 2:</u></strong> Quelle méthode d'envoie des paramètres est t-il préférable d'utilisé, pour un formulaire d'une page web, destiné à demander à l'utilisateur un mot de passe pour se connecter.</p>
+		<p class="presp">POST</p>
+		<a href="index.html"><button>Revenir au Tutoriel</button></a>
+	</body>
+</html>
+

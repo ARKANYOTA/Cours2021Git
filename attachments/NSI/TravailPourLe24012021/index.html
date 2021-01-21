@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Comment faire une page en HTML</title>
+		<link rel="stylesheet" type="text/css" href="index.css"/>
+	</head>
+	<body>
+		<h1>Partie du cours</h1>
+		<h2>Faire du html</h2>
+		<h3>Crée des balises H1 à H6 pour organiser la page</h3>
+		<img src="img/titres.png" alt="Tailles des Titres"/>	
+		<h1 style="text-align: left; background-color: black;">Titre de taille 1</h1>
+		<h2>Titre de taille 2</h2>
+		<h3>Titre de taille 3</h3>
+		<h4>Titre de taille 4</h4>
+		<h5>Titre de taille 5</h5>
+		<h6>Titre de taille 6</h6>
+
+		<h3>Crée d'autres balises</h3>
+		<img src="img/balises.png" alt="Balises autres"/>	
+			<p>Mettre certain mots en <strong>gras</strong> d'autres en <u>souligné</u> et encore d'autre en <em>italique</em> </br>
+			Mais il est aussi important de sauter des lignes avec </br>
+			Faut aussi créer des liens <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language">Lien qui envoit vers wikipedia</a><p>
+		<h2>Faire du css</h2>
+		<h3>Importer dans le css dans le html</h3>
+			Soit l'importer avec <img src="img/csslink.png"/> et écrire le code dans index.css
+			Soit l'écrire dans une balise <img src="img/styles.png"/>
+			<h1>Répondre au question</h1>
+		<form method="get" action="solution.html" id="Q">
+			<p><strong><u>Question 1:</u></strong> En HTML, un formulaire commence par quelle balise?</p>
+			<input name="Q1" value="notform" type="radio" required><label> &#60;/form&#62; </label></br>     <!--&#60 et 62 sont egal à < et > -->
+			<input name="Q1" value="inputform" type="radio"><label> &#60;input type="form"&#62; </label></br>
+			<input name="Q1" value="form" type="radio"><label> &#60;form&#62; </label></br>
+			<input name="Q1" value="comentform" type="radio"><label> &#60;!--form--&#62; </label></br>
+			<p><strong><u>Question 2:</u></strong> Quelle méthode d'envoie des paramètres est t-il préférable d'utilisé, pour un formulaire d'une page web, destiné à demander à l'utilisateur un mot de passe pour se connecter.</p>
+
+			<input name="Q2" value="send" type="radio" required><label> SEND </label></br>
+			<input name="Q2" value="get" type="radio"><label> GET </label></br>
+			<input name="Q2" value="post" type="radio"><label> POST </label></br>
+
+			<button type="submit">Valider les réponses</button>
+
+		</form>
+		<h1>
+	</body>
+</html>
+

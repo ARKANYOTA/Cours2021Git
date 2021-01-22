@@ -1,9 +1,8 @@
 ---
-attachments: [Clipboard_2021-01-09-21-15-04.png]
 tags: [Anglais/Exo]
 title: Article Underground Railroad Expression Ecrite
 created: '2021-01-07T13:54:54.241Z'
-modified: '2021-01-13T20:41:34.176Z'
+modified: '2021-01-21T22:03:46.996Z'
 ---
 
 # 2) Article Underground Railroad Expression Ecrite

@@ -2,7 +2,7 @@
 tags: [Maths, Maths/4.Vecteurs]
 title: Vecteurs
 created: '2021-01-08T13:40:06.100Z'
-modified: '2021-01-15T16:00:39.749Z'
+modified: '2021-01-21T22:05:21.679Z'
 ---
 
 # 4. Vecteurs
@@ -75,7 +75,8 @@ vec u et v sont othogonaux si u.v = 0
 
 
 
-
+vec u + vec v = vec u + vec v + 2vec u 
+Identit" remarcable  
 
 
 

@@ -1,48 +1,113 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>Comment faire une page en HTML</title>
-		<link rel="stylesheet" type="text/css" href="index.css"/>
-	</head>
-	<body>
-		<h1>Partie du cours</h1>
-		<h2>Faire du html</h2>
-		<h3>Crée des balises H1 à H6 pour organiser la page</h3>
-		<img src="img/titres.png" alt="Tailles des Titres"/>	
-		<h1 style="text-align: left; background-color: black;">Titre de taille 1</h1>
-		<h2>Titre de taille 2</h2>
-		<h3>Titre de taille 3</h3>
-		<h4>Titre de taille 4</h4>
-		<h5>Titre de taille 5</h5>
-		<h6>Titre de taille 6</h6>
+    <head>
+        <meta charset="utf-8">
+        <title>Comment faire une page en HTML</title>
+        <link rel="stylesheet" type="text/css" href="index.css"/>
+    </head>
+    <body>
+        <h1>Partie du cours</h1>
+            <h2>Balises HTML</h2>
+            <h3>Crée des titres</h3>
+                <div class="code">
+                    <code>
+                    &#60;h1&#62;Titre de taille 1&#60;/h1&#62;<br/>
+                    &#60;h2&#62;Titre de taille 2&#60;/h2&#62;<br/>
+                    &#60;h3&#62;Titre de taille 3&#60;/h3&#62;<br/>
+                    &#60;h4&#62;Titre de taille 4&#60;/h4&#62;<br/>
+                    &#60;h5&#62;Titre de taille 5&#60;/h5&#62;<br/>
+                    &#60;h6&#62;Titre de taille 6&#60;/h6&#62;<br/>
+                    </code>
+		            <a href="titres.html"><button >Cliquer pour voir le rendu</button></a>
+                </div>
+        
+            <h3>Crée des balises</h3>
+                <div class="code">
+                    <code>
+                        &#60;p&#62;Pour faires des paragraphes&#60;/p&#62;</br>
+                        &#60;p&#62;Mettre certain mots en &#60;strong&#62;gras&#60;/strong&#62; d'autres en &#60;u&#62;souligné&#60;/u&#62; et encore d'autre en &#60;em&#62;italique&#60;/em&#62; &#60;br/&#62;</br>
+                        Mais il est aussi important de sauter des lignes avec &#60;br/&#62;</br>
+                        Faut aussi créer des liens &#60;a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language"&#62; Lien qui envoit vers wikipedia&#60;/a&#62;&#60;/p&#62;<br/>
+                    </code>
+		            <a href="balises.html"><button >Cliquer pour voir le rendu</button></a>
+                </div>
 
-		<h3>Crée d'autres balises</h3>
-		<img src="img/balises.png" alt="Balises autres"/>	
-			<p>Mettre certain mots en <strong>gras</strong> d'autres en <u>souligné</u> et encore d'autre en <em>italique</em> </br>
-			Mais il est aussi important de sauter des lignes avec </br>
-			Faut aussi créer des liens <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language">Lien qui envoit vers wikipedia</a><p>
-		<h2>Faire du css</h2>
-		<h3>Importer dans le css dans le html</h3>
-			Soit l'importer avec <img src="img/csslink.png"/> et écrire le code dans index.css
-			Soit l'écrire dans une balise <img src="img/styles.png"/>
-			<h1>Répondre au question</h1>
-		<form method="get" action="solution.html" id="Q">
-			<p><strong><u>Question 1:</u></strong> En HTML, un formulaire commence par quelle balise?</p>
-			<input name="Q1" value="notform" type="radio" required><label> &#60;/form&#62; </label></br>     <!--&#60 et 62 sont egal à < et > -->
-			<input name="Q1" value="inputform" type="radio"><label> &#60;input type="form"&#62; </label></br>
-			<input name="Q1" value="form" type="radio"><label> &#60;form&#62; </label></br>
-			<input name="Q1" value="comentform" type="radio"><label> &#60;!--form--&#62; </label></br>
-			<p><strong><u>Question 2:</u></strong> Quelle méthode d'envoie des paramètres est t-il préférable d'utilisé, pour un formulaire d'une page web, destiné à demander à l'utilisateur un mot de passe pour se connecter.</p>
+            <h3>Crée des listes</h3>
+                <div class="code">
+                    <code>
+                        &#60;ul&#62;</br>
+                            &#60;li&#62;la balise ul permet des faire des des listes pas ordonées&#60;/li&#62;</br>
+                            &#60;li&#62;la balise il permet de crée un element dans la liste&#60;/li&#62;</br>
+                        &#60;/ul&#62;</br>
+                        &#60;ol&#62;</br>
+                            &#60;li&#62;la balise ol permet des faire des des listes ordonées&#60;/li&#62;</br>
+                            &#60;li&#62;la balise il permet toujours de crée un element dans la liste&#60;/li&#62;</br>
+                            &#60;li&#62;Vous pouvez mettre autant d'élements d'élements que vous voulez&#60;/li&#62;</br>
+                        &#60;/ol&#62;</br>
+                    </code>
+		            <a href="listes.html"><button >Cliquer pour voir le rendu</button></a>
+                </div>
 
-			<input name="Q2" value="send" type="radio" required><label> SEND </label></br>
-			<input name="Q2" value="get" type="radio"><label> GET </label></br>
-			<input name="Q2" value="post" type="radio"><label> POST </label></br>
+            <h3>Mettre des images</h3>
+                <div class="code">
+                    <code>
+                        Mettre une image facilement:</br>
+                        &#60;img src="img/HTML.png"&#62;</br>
+                        Pour la redimentioner en passant par des attributs:</br>
+                        &#60;img src="img/HTML.png" width="10px" height="30px"&#62;</br>
+                    </code>
+		            <a href="images.html"><button >Cliquer pour voir le rendu</button></a>
+                </div>
+            <h2>Utiliser le CSS</h2>
+            <h3>Modifier un </h3>
+                <div class="code">
+                    <code>
+                        Mettre une image facilement:</br>
+                        &#60;img src="img/HTML.png"&#62;</br>
+                        Pour la redimentioner en passant par des attributs:</br>
+                        &#60;img src="img/HTML.png" width="10px" height="30px"&#62;</br>
+                    </code>
+		            <a href="images.html"><button >Cliquer pour voir le rendu</button></a>
+                </div>
 
-			<button type="submit">Valider les réponses</button>
 
-		</form>
-		<h1>
-	</body>
+        <h1>Répondre au question</h1>
+        
+            <form method="get" action="solution.html" id="Q">
+                <div class="questions">
+                    <p><strong><u>Question 1:</u></strong> En HTML, un formulaire commence par quelle balise?</p>
+                    <input name="Q1" value="notform" type="radio" required><label> &#60;/form&#62; </label><br/>     <!--&#60 et 62 sont egal à < et > -->
+                    <input name="Q1" value="inputform" type="radio"><label> &#60;input type="form"&#62; </label><br/>
+                    <input name="Q1" value="form" type="radio"><label> &#60;form&#62; </label><br/>
+                    <input name="Q1" value="comentform" type="radio"><label> &#60;!--form--&#62; </label><br/>
+
+                    <p><strong><u>Question 2:</u></strong> Quelle méthode d'envoie des paramètres est t-il préférable d'utilisé, pour un formulaire d'une page web, destiné à demander à l'utilisateur un mot de passe pour se connecter.</p>
+                    <input name="Q2" value="send" type="radio" required><label> SEND </label><br/>
+                    <input name="Q2" value="get" type="radio"><label> GET </label><br/>
+                    <input name="Q2" value="post" type="radio"><label> POST </label><br/>
+                    <button type="submit">Valider les réponses</button>
+                </div>
+            </form>
+    </body>
 </html>
 
+
+
+
+<!--        
+        <h2>Faire du html</h2>
+        <h3>Crée des balises H1 à H6 pour organiser la page</h3>
+        <h1 style="text-align: left; background-color: black;">Titre de taille 1</h1>
+        <h2>Titre de taille 2</h2>
+        <h3>Titre de taille 3</h3>
+        <h4>Titre de taille 4</h4>
+        <h5>Titre de taille 5</h5>
+        <h6>Titre de taille 6</h6>
+        <pre> <u>Helo</u></pre>
+        <h3>Crée d'autres balises</h3>
+        <img src="img/balises.png" alt="Balises autres"/>	
+        <h2>Faire du css</h2>
+        <h3>Importer dans le css dans le html</h3>
+        Soit l'importer avec <img src="img/csslink.png"/> et écrire le code dans index.css
+        Soit l'écrire dans une balise <img src="img/styles.png"/>
+-->

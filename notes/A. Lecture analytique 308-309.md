@@ -2,7 +2,7 @@
 tags: [Francais/Exo]
 title: A. Lecture analytique 308-309
 created: '2021-01-09T13:19:10.378Z'
-modified: '2021-01-20T20:08:42.459Z'
+modified: '2021-01-21T15:57:24.631Z'
 ---
 
 # A. Lecture analytique 308-309
@@ -74,7 +74,6 @@ l.9 Hermès = messager des dieux → mythologie grecque et non romaine
 > comparaison abbailes avec (soldats)/ paysant. 
 > anithèse entre autome et été
 > tendres dieux brisés
-> personage misterieux que on voit pas et qui à l'apparence du Cavalier Trace
 > flatteire pour faire rester le peuple 
 > ?personnfiication des peuples (flaterie)
 > Qui cherche a tout prix de l'argent
@@ -175,4 +174,156 @@ La prof l’a donné c’est :
 
 2ème partie:
 Hadrien transforme son amant, Antinoüs en une divinité en lui en donnant l’apparence et le faisan vénéré par son peuple, par les faibles et les pauvres comme il l'est dit dans le texte et les parents accrochent une pièce ayant gravé la tête de ce dernier autour du cou de leurs enfants sous forme d'amulette et sur les tombes pour les protéger. La figure que donne Hadrien à Antinoüs est celle d'un jeune homme à l'âge de la puberté qui fait ce que les hommes simples font, il ne fait qu'un avec la nature car il est divinisé comme s'il prenait la place de Dionysos qui est lui-même le dieu des vignes.
+
+
+
+---
+---
+---
+
+#
+ 
+L1 : comparaison « analogue à celle des jardiniers » : Hadrien compare l’implantation du culte dans les mentalités à l’enracinement d’une plante dans les jardins.
+Comparaison avec jardinage : l.2 « implanter », « a pris racine » → travail manuel // le culte s’est enraciné profondément dans la culture romaine
+Oxymore : « vin de la vie » / « miel amer d’outre-tombe » : des Dieux qui incarnent le quotidien de la population (Toujours Raph qui casse les couilles : le vin de la vie fait référence à l’Ambroisie, la boisson des Dieux qui les rend immortels  https://fr.wikipedia.org/wiki/Ambroisie_(mythologie) Ducoup ici on a un oxymore poussé entre l’ambroisie correspondant à l’Olympe situé dans le ciel et les Enfers, censés etre sous terre)
+l8: ‘miel amer’ oxymore renforce le sentiment d’incompréhension de son époque
+l.15 "divinités des bois", "roi des abeilles", automne, été -> comparaisons avec la nature et qui montre la superiorité de la nautre
+l.17 Énumération de divers lieux : “En arcasie ancestrale”, “En Asie”, "a l'aurée ds pays barbare" -> le culte s’est répandu partout dans le monde
+Il y a une comparaison au culte d'antinous avec la mytholgie greques:
+- Accumultation ‘Hermes’, ‘Bacchus’, ‘Pan’, ‘Diane’ sont tous des personnages de la mytholigie grecques
+L19-20: Comparaison entre  Antinoüs et le cavalier Thrace. Divinisation héroïque de son compagnon.
+Comparaison a un cavalier mysteieux par les barbares
+personage misterieux que on voit pas et qui à l'apparence du Cavalier Trace qui détruit ce que il croise
+avec une accumulation des caractères mysterieux ‘clair de lune’, ‘âmes’, ‘pli de son manteau’
+alors que ‘pays barbares’ et ‘Cavalier Thrace’ s’opposent
+
+##
+
+
+L29: “inhérents à la nature des choses” culte devient un phénomène naturel.
+accumulation ‘quinze ans’, ‘boucles flottantes’, ‘sourire émerveillé et crédule’ donne un aspect d'inocence a l’enfant
+‘qu’il a si peu gardé’ -> il regrete le passé
+
+
+## 
+Mais antinous est imortel dans la concence des gents
+‘périr une seconde fois’, ‘immortalité’ antithèse qui montre que l'enfent est imortel
+L42-46 : comparaison du culte avec « image, un reflet, un faible échos » : gradation : de moins en moins précis 
+
+"au moins pendant quelque sciecle" une periode assez longue pour un humain pour que sa paraient imortelle
+"On fait guerre meiux en matiere d'imorrtalité": C'est a dire que c'est le maximux que il pouvait faire
+La peur de mourir se caleme en partie. Elle est compense par cette soif d'imortalité
+
+
+---
+---
+---
+
+
+“vin”, “miel amer” -> dieux Bacchus / Aristée
+l.9 Hermès = messager des dieux → mythologie grecque et non romaine -> signe de culture et d’appréciation de la culture grecque par Hadrien L'appréciation d’Hadrien pour la culture Grec se reflète notamment par la rénovation et l'Embellissement d’Athène, capitale Grec.
+l.11 Éleusis = ville grecque
+De nombreuses références aux mythologies grecques et romaines “Hermès”, “Bacchus”-> une comparaison du culte d’Antinoüs à quelque chose de divin et mythologique 
+-> accentué par hyperboles l.7 « les plus ardents, les plus tristes » → il réfère ici ainsi à Antinoüs et à son culte
+l.13 “le jeune Bacchus des mystères” -> Bacchus = dieu du vin et du débordement, et
+l.13 prince des régions limitrophes entre les sens et l’âme : la phrase est un peu bizarre mais j’ai trouvé ca = https://fr.wikipedia.org/wiki/%C3%82me#Aristote , en gros selon Aristote le corps est en plusieurs parties dont l’âme et les sens, la région entre les deux est là où se situe le désir, relatif à Bacchus ⇒ montre la diversité des cultes attribués à Antinoüs. 
+limitrophes = aux frontières
+L9-23 : Énumération ; Hadrien décrit comment le culte a été porté à Antinoüs en fonction des régions et à quelles divinités préexistantes il a été associé. : montre que son culte a accepté de partout mais sous différentes formes.
+- lieux : l.8 “Delphes’, l.11 “Eleusis”
+- ‘qualité d’étranger’ -> utilisation de qualité et non caractéristique qui affirme qu’il trouve cette dernière positive
+
+
+
+- ‘quinze ans’, ‘boucles flottantes’, ‘sourire émerveillé et crédule’ -> caractère de l’enfance et de l’innocence
+
+- ‘qu’il a si peu gardé’ -> fait penser à un sentiment de nostalgie, de regret
+
+- ‘périr une seconde fois’, ‘immortalité’ antithèse
+
+L26-27: elle cède aux aspirations des coeurs simples” 
+L36-38 : comparaison d’Hadrien avec un capitaine de navire : il ne se soucie pas de sa mort, mais des conséquences de sa mort sur la mémoire d’Antinoüs (Toujours dans l’optique de la mythologie, on a peut-etre une comparaison avec Charon, le batelier des enfers qui amenait les morts aux Champs Elysees, l’endroit ou les bonnes âmes allaient après la mort la ou les âmes impies restaient de l’autre coté du styx => Volonté d’Hadrien de guider Antinous vers le Paradis via ce culte accentué par “embaumé”, l’embaumement étant le traitement réservé aux morts)
+L42-46 : comparaison du culte avec « image, un reflet, un faible échos » : gradation : de moins en moins précis (Rappelle le souvenir qui s’efface petit à petit = voir plus haut)
+L43: “J’ai compensé comme je l’ai pu cette mort précoce” confirme la peur d’Hadrien d’oublier Antinoüs.
+L44:”surnagera pendant au moins quelques siècles” Montre qu’ Hadrien a en partie réussi ce qu’il voulait faire.
+
+Faut faire un plan non ?
+La prof l’a donné c’est :
+1ère partie : l. 1 à l. 25 :  culte officiel
+	-L’élévation d’Antinous au rang divin
+	-
+
+2ème partie : l. 26 à l. 35 : culte devenu naturel
+3ème partie : l. 36 à l. 47 : immortalité d’Antinoüs
+
+
+2ème partie:
+
+
+Hadrien transforme son amant, Antinoüs en une divinité en lui en donnant l’apparence et le faisan vénéré par son peuple, par les faibles et les pauvres comme il l'est dit dans le texte et les parents accrochent une pièce ayant gravé la tête de ce dernier autour du cou de leurs enfants sous forme d'amulette et sur les tombes pour les protéger. La figure que donne Hadrien à Antinoüs est celle d'un jeune homme à l'âge de la puberté qui fait ce que les hommes simples font, il ne fait qu'un avec la nature car il est divinisé comme s'il prenait la place de Dionysos qui est lui-même le dieu des vignes.
+
+
+
+
+
+---
+comparaison changce analogue = racine des plantes
+Antinous = personne qui compte bcp pour lui
+culte = noramlisé
+peuple romain = dieux = sentiment et relation
+hadreine -> legitminese l'adition d'antinous
+oxymore = fin de la vie - miel amer de la tombe
+longue enumération 
+
+
+
+
+----
+
+
+1. Le culte officiel d'antinous aux confins de l'empire
+Compariaosn avec le jardinier deja p139  > role esthétiaque de l'mpeureur notament se trensforme en métahore filée : "implanter, pris racine"
+humilité d'Hadrien : passé composé passif l2 m'a déparie 
+j'ai essayer d'impleanter > action de la chance 
+combinée avec l'ambition de l'empeureur : "dans l'imagination humaine" l3
+>> but géneral universel alors que son deil est personnel
+Epuisode qui évoque le deuil : "douleur, les plus trises, d'outre tombe"
+La mort d'antinous a lieu aux pages 215-6
+Les therùes utilissée pour évoquer d'antinous : antinous, l'enfent, le companon, de mes chasses et de mes voyages" périphrase
+>> inosace et donc cupabilité d'Hadiren >> plus qu'un amis qu'un collègue = amant
+hadrien va faire une gradation des lieus dans lmequeles le culte a pris une tournure particulière de plus en plus éloigné et de moins précis 
+
+a delphes il est associe au dieu hermes dieu messager entre les hommes et les dieu des voleurs, dieu des commercant
+ici protecteurs des morts d= psychopompe = celui qui conduit les ames aux enfers  après la mort euphémisme : "passages obscures" l 10
+à Eleusis associer a bacchus = Dionysos dieu du vin de la fete de l'excès
+ici dieu entre la vie et la mort = préiphrae régions limineurs = frontirese
+en arcadie, associé à pan et dianes >> lié a ma nature, vie
+à tibure, associer aux paysants donc a la nature, vie
+en asie ; religion animiste: deux saison associées a la mort brisée et dévorés
+a l'auré des pays barbares = au plus loin, au frontieres de l'mepire, antinous est associer à un dieu autotchone originaire de la région psychopompe emportant les ames
+toutes c'est représentation d'antinous sont liées au passage de la vie à la morts
+
+exroissacne = métahpore = devlopement parasirte élement ajouté a un corps principal et considéer comme insolite ou artificiel >> ces cultes ont un caractère à la foix hasaerdeux et inévitables mais surprenant ou inatendus pour hadrien 
+gradatiion = excroissance fatterie bassesse
+présente le culte comme d'emoins en moins sincere >> subsides = contribution fincanciere
+
+
+
+------ Culte qui s'impose naturelement
+mais l26 coordination qui marque une opposition franche >> on va passer à un culte effectivement sincère Termes utilisée pour désignéer Antinous : jeunes (26) éphebe 28 = age
+
+figure = image >> fixte >> l'image d'antinous s'est fixée dans l'imaginaire sous trait de la jeunesse et de la beauté collectif
+"mechape" Hadiren perd le controle
+elle cède = personifciation l'image d'A sembme douée de sa propre colonté
+coeur simple = periphrase et antithéese aux pretres avide de subsides
+piétes populaire >> culte d'antious rvient a un état norman premier
+retablisement >> authantique = vérité d'antious 
+l'éphebre sombre et délicuex un oxymore , douleuyr d'hadrien sensualité
+
+est devenu l29 present passif // effet de la nature des chose *
+appui des faibles et des pauvres alors que le culte de l'empire ne l'associait qu'aux morts Son culte élargit ses atribut divins
+age le lie aux inocents
+imafge confirme la fivité la reconstruction 
+= amulette = porte bhoneur = protège la vie
+quil a si peu gardé Hadrien releve le déccalage entre le sourire et Antinous d'apres la bithynie >> cupablité d'hadrien qui se reproche son influance néfaste
+antinous devient de manière naturelle le protecteur des enfents morts : perihrases dans des cimetères...sur de petites tmbes>> spécialitation du culte liée a limage conservée d'antinous
 

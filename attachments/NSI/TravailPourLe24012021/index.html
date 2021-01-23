@@ -3,12 +3,36 @@
     <head>
         <meta charset="utf-8">
         <title>Comment faire une page en HTML</title>
-        <link rel="stylesheet" type="text/css" href="index.css"/>
+        <link rel="stylesheet" type="text/css" href="liens/index.css"/>
     </head>
     <body>
         <h1>Partie du cours</h1>
-            <h2>Balises HTML</h2>
-            <h3>Crée des titres</h3>
+            <h2>Balises HTML<img src="img/HTML.png" width="20px" alt="HTML"></h2></br>
+                    <h3>Introduction de l'HTML</h3>
+                        <div class="code">
+                        <p>
+                            Le HTML est un assemblage de balises qui permettent de créer des pages web.</br>
+                            Une balise est composée de:<code>&#60;nom_de_la_balise attribut1=valeur1 attribut2=valeur2&#62;Texte qui sera dans la balise&#60;/nom_de_la_balise&#62;</code>
+                        </p>
+                        <p>
+                            Le code basique de toutes les pages HTML:</br>&emsp;
+                            <code>
+                                &#60;!DOCTYPE html&#62;</br>
+                                &#60;html lang="en"&#62;</br>
+                                &#60;head&#62;</br>
+                                    &emsp;&#60;meta charset="UTF-8"&#62;</br>
+                                    &emsp;&#60;title&#62;Titre du document&#60;/title&#62;</br>
+                                &#60;/head&#62;</br>
+                                &#60;body&#62;</br>
+                                    &emsp;&#60;!--Mettre les balises ici--&#62;</br>
+                                &#60;/body&#62;</br>
+                                &#60;/html&#62;</br>
+
+                            </code>
+                        </p>
+                    </div>
+            <h3>Créer des titres</h3>
+                
                 <div class="code">
                     <code>
                     &#60;h1&#62;Titre de taille 1&#60;/h1&#62;<br/>
@@ -18,34 +42,34 @@
                     &#60;h5&#62;Titre de taille 5&#60;/h5&#62;<br/>
                     &#60;h6&#62;Titre de taille 6&#60;/h6&#62;<br/>
                     </code>
-		            <a href="titres.html"><button >Cliquer pour voir le rendu</button></a>
+		            <a href="liens/titres.html"><button >Cliquer pour voir le rendu</button></a>
                 </div>
         
-            <h3>Crée des balises</h3>
+            <h3>Créer des balises</h3>
                 <div class="code">
                     <code>
                         &#60;p&#62;Pour faires des paragraphes&#60;/p&#62;</br>
-                        &#60;p&#62;Mettre certain mots en &#60;strong&#62;gras&#60;/strong&#62; d'autres en &#60;u&#62;souligné&#60;/u&#62; et encore d'autre en &#60;em&#62;italique&#60;/em&#62; &#60;br/&#62;</br>
-                        Mais il est aussi important de sauter des lignes avec &#60;br/&#62;</br>
-                        Faut aussi créer des liens &#60;a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language"&#62; Lien qui envoit vers wikipedia&#60;/a&#62;&#60;/p&#62;<br/>
+                        &#60;p&#62;Mettre certain mots en &#60;strong&#62;gras&#60;/strong&#62; d'autres en &#60;u&#62;souligné&#60;/u&#62; et encore d'autre en &#60;em&#62;italiques&#60;/em&#62; &#60;br/&#62;</br>
+                        Mais il est aussi important de sauter des lignes avec br &#60;br/&#62;</br>
+                        Faut aussi créer des liens &#60;a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language"&#62; Lien qui renvoie vers wikipedia&#60;/a&#62;&#60;/p&#62;
                     </code>
-		            <a href="balises.html"><button >Cliquer pour voir le rendu</button></a>
+		            <a href="liens/balises.html"><button >Cliquer pour voir le rendu</button></a>
                 </div>
 
-            <h3>Crée des listes</h3>
+            <h3>Créer des listes</h3>
                 <div class="code">
                     <code>
                         &#60;ul&#62;</br>
-                            &#60;li&#62;la balise ul permet des faire des des listes pas ordonées&#60;/li&#62;</br>
-                            &#60;li&#62;la balise il permet de crée un element dans la liste&#60;/li&#62;</br>
+                            &#60;li&#62;la balise ul permet de faire des listes non ordonées&#60;/li&#62;</br>
+                            &#60;li&#62;la balise il permet de créer un élément dans la liste&#60;/li&#62;</br>
                         &#60;/ul&#62;</br>
                         &#60;ol&#62;</br>
-                            &#60;li&#62;la balise ol permet des faire des des listes ordonées&#60;/li&#62;</br>
-                            &#60;li&#62;la balise il permet toujours de crée un element dans la liste&#60;/li&#62;</br>
-                            &#60;li&#62;Vous pouvez mettre autant d'élements d'élements que vous voulez&#60;/li&#62;</br>
+                            &#60;li&#62;la balise ol permet de faire des listes ordonées&#60;/li&#62;</br>
+                            &#60;li&#62;la balise il permet toujours de créer un element dans la liste&#60;/li&#62;</br>
+                            &#60;li&#62;Vous pouvez mettre autant d'élements que vous voulez&#60;/li&#62;</br>
                         &#60;/ol&#62;</br>
                     </code>
-		            <a href="listes.html"><button >Cliquer pour voir le rendu</button></a>
+		            <a href="liens/listes.html"><button >Cliquer pour voir le rendu</button></a>
                 </div>
 
             <h3>Mettre des images</h3>
@@ -56,24 +80,102 @@
                         Pour la redimentioner en passant par des attributs:</br>
                         &#60;img src="img/HTML.png" width="10px" height="30px"&#62;</br>
                     </code>
-		            <a href="images.html"><button >Cliquer pour voir le rendu</button></a>
+		            <a href="liens/images.html"><button >Cliquer pour voir le rendu</button></a>
                 </div>
-            <h2>Utiliser le CSS</h2>
-            <h3>Modifier un </h3>
+            <h2>Utiliser le CSS <img src="img/CSS.png" width="20px" alt="HTML"></h2></br>
+            <h3>Introduction au css</h3>
+                <div class="code">
+                    <p>
+                        Le CSS permet d'ajouter du style à une page web.</br>
+                        Son écriture est composé de:<pre>nom_de_la_balise{</br> style1: valeur1;</br> style2: valeur2</br>}</pre>
+                    </p>
+                </div>
+            <h3>Insérer le css dans une page </h3>
                 <div class="code">
                     <code>
-                        Mettre une image facilement:</br>
-                        &#60;img src="img/HTML.png"&#62;</br>
-                        Pour la redimentioner en passant par des attributs:</br>
-                        &#60;img src="img/HTML.png" width="10px" height="30px"&#62;</br>
+                        Soit la mettre à l'interieur de la page html avec:</br>
+                        &#60;style&#62; Mettre code CSS ici &#60;/style&#62;</br>
+                        Soit avec un fichier externe:</br>
+                        &#60;link rel="stylesheet" type="text/css" href="liens/index.css"/&#62;</br>
                     </code>
-		            <a href="images.html"><button >Cliquer pour voir le rendu</button></a>
                 </div>
+            <h3>Ajouter du style à la page</h3>
+                <div class="code">
+                    <pre>
+body{
+    background-color: black; /*permet de mettre le fond en noir*/
+    color: #ffffff /*Et la couleur du texte en blanc en utilisant l'hexadecimal*/
+}</pre>
+                    <a href="liens/colors.html"><button >Cliquer pour voir le rendu</button></a>
 
+                </div>
+                <h3>Ajouter du style à des balise</h3>
+                <div class="code">
+                    <pre>
+h1{
+    color: #8B0000; /* Changer la couleur du texte*/
+    text-align: center; /* l'alginer au centre*/
+    border: 3px /* Et une bordure de 3 pixel*/
+
+}
+p{
+    color: #ffffff /*Et la couleur du texte en blanc en utilisant l'hexadecimal*/
+}</pre>
+                    <a href="liens/cssbalises.html"><button >Cliquer pour voir le rendu</button></a>
+
+                </div>
+            <h3>Hover CSS</h3>
+                <div class="code">
+                    <pre>
+h1{
+    color: #8B0000; /* Changer la couleur du texte*/
+    text-align: center; /* l'alginer au centre*/
+    border: 3px dashed #505/* Et une bordure de 3 pixel*/                        
+}
+h1:hover{
+    color: #00008B; /* Changer la couleur du texte lors que la souris est dessus*/
+    text-align: center; /* l'alginer au centre lors que la souris est dessus*/
+    border: 3px solid #055/* Et une bordure de 3 pixel lors que la souris est dessus*/
+}
+                    </pre>
+                    <a href="liens/csshover.html"><button >Cliquer pour voir le rendu</button></a>
+                </div>    
+            <h2>Faire un formulaire</h2></br>              
+            <h3>Faire une balise form </h3>
+                <div class="code">
+                    <code>
+                        Pour créer un formulaire, c'est :</br>
+                        &#60;form method="get ou post" action="file.html"&#62; Données du formulaire &#60;/form&#62;</br>
+                        Il existe 2 types de formulaire: les Get et les Post</br>
+                        Les get affiches les information reçu dans l'url et les post non </br>
+                        Et l'action est vers quel fichier renvoie le formulaire une fois compléter.
+                    </code>
+                </div>
+            <h3>Ajouter des inputs</h3>
+                <div class="code">
+                    <code>
+                        &#60;form method="post" action="index.html"&#62;</br>
+                        &#60;input name="input"/&#62; &#60;label&#62; Le input permet si on lui met pas de type de renter une chaine de charctères, Quant au label il permet d'afficher du texte à coté du input, le name est la variable qui contient l'information lors de l'envoie&#60;/label&#62;</br> 
+                        &#60;input name="input" type="password"/&#62; &#60;label&#62; Le type password&#60;/label&#62;</br>
+                        &#60;input value="radio" name="input" type="radio"/&#62; &#60;label&#62; Le type radio&#60;/label&#62;</br>
+                        &#60;input value="check" name="input" type="checkbox"/&#62; &#60;label&#62; Le type checkbox&#60;/label&#62;</br>
+                        &#60;input type="submit"/&#62; &#60;label&#62; Le type subit permet renvoyer ves la page décider précédement dans l'attribut action&#60;/label&#62;</br></br>
+                        &#60;/form&#62;</br>
+                    </code>
+                    <a href="liens/inputs.html"><button >Cliquer pour voir le rendu</button></a>
+                </div>
+            <h2>Relation client serveur</h2></br>
+            <h3>Principe de protocole</h3>
+                <div class="code">
+                        Pour le Web, c'est le protocole HTTP(S) (HyperText Transfer Protocole) qui est utilisé. </br>
+                        Il permet de communiquer entre le client(Ex: navigateur web) et serveur(Ex: Data Center)
+                </div>
+        
+            </br>
 
         <h1>Répondre au question</h1>
         
-            <form method="get" action="solution.html" id="Q">
+            <form method="get" action="liens/solution.html" id="Q">
                 <div class="questions">
                     <p><strong><u>Question 1:</u></strong> En HTML, un formulaire commence par quelle balise?</p>
                     <input name="Q1" value="notform" type="radio" required><label> &#60;/form&#62; </label><br/>     <!--&#60 et 62 sont egal à < et > -->
@@ -90,24 +192,3 @@
             </form>
     </body>
 </html>
-
-
-
-
-<!--        
-        <h2>Faire du html</h2>
-        <h3>Crée des balises H1 à H6 pour organiser la page</h3>
-        <h1 style="text-align: left; background-color: black;">Titre de taille 1</h1>
-        <h2>Titre de taille 2</h2>
-        <h3>Titre de taille 3</h3>
-        <h4>Titre de taille 4</h4>
-        <h5>Titre de taille 5</h5>
-        <h6>Titre de taille 6</h6>
-        <pre> <u>Helo</u></pre>
-        <h3>Crée d'autres balises</h3>
-        <img src="img/balises.png" alt="Balises autres"/>	
-        <h2>Faire du css</h2>
-        <h3>Importer dans le css dans le html</h3>
-        Soit l'importer avec <img src="img/csslink.png"/> et écrire le code dans index.css
-        Soit l'écrire dans une balise <img src="img/styles.png"/>
--->

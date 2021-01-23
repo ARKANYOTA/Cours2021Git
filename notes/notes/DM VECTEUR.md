@@ -2,7 +2,7 @@
 tags: [Maths/DM]
 title: DM VECTEUR
 created: '2020-10-28T22:46:18.959Z'
-modified: '2021-01-22T14:33:02.973Z'
+modified: '2021-01-22T21:33:21.829Z'
 ---
 
 # DM VECTEUR  
@@ -97,8 +97,53 @@ Ensembles des poins M sont: $(x-3)^{2}+y^{2}=16$
 
 ## Que peut on déduire pour l’ensemble (E) ?
 
-L'ensmebe E forme un cercle
+l’ensemble (E) forme un cercle de rayon 4 et de cente (0;3)
 
-## 
+## On appelle M(x, y) le couple de coordonnées de M dans un repére orthonormé. Exprimer les vecteurs $\vec{MA}$ et $\vec{MB}$ puis le produit scalaire $\vec{MA} \cdot \vec{MB} = 12$.
+
+
+avec M(x;y) et G(0;3)
+
+$MG = \sqrt{(x-0)²+(y-3)²}$
+$MG = \sqrt{x²+y²-2y3+9}$
+
+
+$\vec{MA}(x_A - x_M; y_A-y_M)$
+$\vec{MA}(0 - x; 1-y)$
+$\vec{MA}(-x; 1-y)$
+
+$\vec{MB}(x_B - x_M; y_B-y_M)$
+$\vec{MB}(0 - x; 5-y)$
+$\vec{MB}(-x; 5-y)$
+
+Formule: $\vec{MA} · \vec{MB} = xx'+yy'$
+$\vec{MA} · \vec{MB} = -y*-y+(1-x)*(5-x)$
+
+$\vec{MA} · \vec{MB} = y²+(5 -5x + x² + -x)$
+$\vec{MA} · \vec{MB} = y²+(5 -6x + x²) = 12$
+
+
+
+## Vérifier que les points précédemment trouvés C, D, E et F appartiennent à (E).
+
+C(-1; 0) ⇒ $\vec{MA} · \vec{MB} = y²+(5 -6x + x²) = 12$
+$\vec{MA} · \vec{MB} = 0²+(5 -6*(-1) + (-1)²) = 12$
+$\vec{MA} · \vec{MB} = 5 + 6 + 1 = 12$
+
+D(7; 0) ⇒ $\vec{MA} · \vec{MB} = y²+(5 -6x + x²) = 12$
+$\vec{MA} · \vec{MB} = 0²+(5 -6*7 + 7²) = 12$
+$\vec{MA} · \vec{MB} = (5 -42 + 49) = 12$
+
+E(5.4; 3.2) ⇒ $\vec{MA} · \vec{MB} = y²+(5 -6x + x²) = 12$
+$\vec{MA} · \vec{MB} = 3.2²+(5 -6*5.4 + 5.4²) = 12$
+$\vec{MA} · \vec{MB} = 10.24+(5 -32.4 + 29.16) = 12$
+
+F(-0.2,2.4) ⇒ $\vec{MA} · \vec{MB} = y²+(5 -6x + x²) = 12$
+$\vec{MA} · \vec{MB} = (2.4)²+(5 -6*(-0.2) + (-0.2)²) = 12$
+$\vec{MA} · \vec{MB} = 5.76+(5 +1.2 + 0.04) = 12$
+
+## Concluusion
+
+
 
 

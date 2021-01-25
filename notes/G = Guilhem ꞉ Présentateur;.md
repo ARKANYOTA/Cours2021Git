@@ -1,7 +1,8 @@
 ---
+deleted: true
 title: 'G = Guilhem : Présentateur;'
 created: '2021-01-11T17:05:01.223Z'
-modified: '2021-01-11T17:05:02.997Z'
+modified: '2021-01-25T17:47:11.740Z'
 ---
 
 # G = Guilhem : Présentateur; 

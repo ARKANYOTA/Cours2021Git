@@ -1,7 +1,7 @@
 ---
 title: les adjectif numeraux sont invariable sauf 20 et 100
 created: '2020-11-23T18:23:59.864Z'
-modified: '2021-01-18T18:32:09.315Z'
+modified: '2021-01-25T18:19:08.238Z'
 ---
 
 # les adjectif numeraux sont invariable sauf 20 et 100
@@ -36,3 +36,10 @@ aucun
 
 baril
 bœuf
+
+bourg
+caddie
+jeune=/=vieux et jeûne==pas manger=>à jeun=> jeûner
+matelas
+géant
+

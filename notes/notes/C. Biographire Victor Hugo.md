@@ -1,11 +1,11 @@
 ---
-title: Biographire Victor Hugo
 tags: [Francais/Exo]
+title: C. Biographire Victor Hugo
 created: '2020-11-04T19:31:19.945Z'
-modified: '2020-11-05T07:17:56.677Z'
+modified: '2021-01-27T09:40:44.759Z'
 ---
 
-# Biographire Victor Hugo
+# C. Biographire Victor Hugo
 
 Hugo Victor-Marie (1802 - 1885)
 

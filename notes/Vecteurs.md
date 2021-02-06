@@ -2,7 +2,7 @@
 tags: [Maths, Maths/4.Vecteurs]
 title: Vecteurs
 created: '2021-01-08T13:40:06.100Z'
-modified: '2021-01-21T22:05:21.679Z'
+modified: '2021-01-26T11:13:48.212Z'
 ---
 
 # 4. Vecteurs
@@ -80,14 +80,14 @@ Identit" remarcable
 
 
 
+# Exo 6
 
+Si orthocentre H alors AB²-AC²=HB²-HC²
 
+vecAB²-vecAC=vecHB²-vecHC²
+Identité remarcable
 
-
- e hhn
-
-
-
+AB² = vecAB² = vecAB dot vecAB
 
 
 

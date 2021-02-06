@@ -1,11 +1,11 @@
 ---
 tags: [Francais/Exo]
-title: A. FICHE 4 - Analyser les subordonnées conjonctives
+title: C. FICHE 4 - Analyser les subordonnées conjonctives
 created: '2021-01-21T12:44:51.579Z'
-modified: '2021-01-22T13:06:23.941Z'
+modified: '2021-01-27T09:40:27.582Z'
 ---
 
-# A. FICHE 4 - Analyser les subordonnées conjonctives
+# C. FICHE 4 - Analyser les subordonnées conjonctives
 
 ## 1
 *Complétez les propositions ci-dessous par des propositions subordonnées conjonctives circonstancielles.

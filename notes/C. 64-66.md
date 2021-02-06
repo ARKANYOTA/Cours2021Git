@@ -1,11 +1,11 @@
 ---
 tags: [Francais/Exo]
-title: B. 64-66
+title: C. 64-66
 created: '2021-01-11T12:20:05.348Z'
-modified: '2021-01-18T12:26:18.246Z'
+modified: '2021-01-27T09:40:34.100Z'
 ---
 
-# B. 64-66 
+# C. 64-66 
   L'histoire d'un soldat trop lettré de "Un cert ainn nombre d'actions d'éclat..." à " ... ùe actes ne formaient"
   &
 

@@ -1,11 +1,12 @@
 ---
-tags: [Francais/Exo]
-title: A. Lecture analytique 308-309
-created: '2021-01-09T13:19:10.378Z'
-modified: '2021-01-21T15:57:24.631Z'
+favorited: true
+tags: [Francais/Travaux sur textes]
+title: 'Texte6: Lecture analytique 308-309'
+created: '2021-01-28T15:03:51.214Z'
+modified: '2021-01-28T15:04:23.534Z'
 ---
 
-# A. Lecture analytique 308-309
+# Texte6: Lecture analytique 308-309
 
 FICHE METHODE : LA LECTURE ANALYTIQUE
 #### I.Caractériser le texte
@@ -326,4 +327,37 @@ imafge confirme la fivité la reconstruction
 = amulette = porte bhoneur = protège la vie
 quil a si peu gardé Hadrien releve le déccalage entre le sourire et Antinous d'apres la bithynie >> cupablité d'hadrien qui se reproche son influance néfaste
 antinous devient de manière naturelle le protecteur des enfents morts : perihrases dans des cimetères...sur de petites tmbes>> spécialitation du culte liée a limage conservée d'antinous
+
+
+### 3 eme Partie 
+
+analepse "Naguère"
+comparaison "comme" -> métaphore filée du capitaine du bateau
+men = les obstacles les aléas de la vie
+
+Altruisme: "Insousciance de soi même" // "Qui trimble pour les passagers"
+
+39 adverbe "amèrement" -> Avec amertume
+s'oppose à l'insoueux
+"ce souvenir" => l39: => le profil du garçon de quinze ans ... au sourire ..." 31-33
+Hadrien est triste à l'idée qu'Antinous meurt une 2eme fois à sa mort à lui
+
+Periphraseh «Ce leune être soignement embaumé au fond de ma mémoire»
+insociance souvenir que reste constant. Il reste constant le souvenir d'abiment au cours du temps, métaphore qui indique la vivacité du souvenir, Le preserver de l'oublit mais pas de la pouriture.
+
+l41"me semblait ainsi perrir une seconde foix" -> verbe modalisé ce ne sont ques des hypothese
+il propose un réflextion philosoque sur la mort de l'autre: une plainte poyrtant su juste
+l44: Gradation inversée qui mime l'éffacement du souvenir 
+"comme je l'ai pu" et "précoce" => cupbilité
+l45: On retrouve la mort. 
+Au moins pendant quelques sciècles 
+On peut pas devenir imortel: Qulques sciècle tout au plus.
+on ne fait = presant de v"rité général confirmé par un pronom on
+Le txt finit pat imartalité car c'est le but d'Hadrien. 
+
+
+
+
+rightsinglequotemark => Apthrophe
+
 

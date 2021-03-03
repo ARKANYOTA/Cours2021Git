@@ -2,12 +2,24 @@
 tags: [Francais, Francais/Gram]
 title: Pont de gramaire
 created: '2021-01-15T12:41:47.283Z'
-modified: '2021-02-05T12:52:14.784Z'
+modified: '2021-02-12T13:04:50.982Z'
 ---
 
 # Pont de gramaire
 
 La proposition ^[Groupé de mots dont le noyau est un verbe] subordonée^[Dépend d'une propotition principale] conjonctive^[Introduite par une conjonction de surbordination] à <u>valeur circonstancielle</u>^[Même caractérisuique que les complement circonstanciels (CC)] 
+
+
+
+# Alltypes
+- tmporelle
+- causale
+- finale
+- conditionelle
+- concessive
+- comparative
+- concécive
+
 
 ### Propotition subordoné conjonctive a valeur circonstentioele p32-33:
 
@@ -60,15 +72,26 @@ La proposition subordonée Conséqunce: Que j'ai gardé la forme et l'essence di
 
 ### Mémoires d'Hadrien:
 #### Texte 1 32-33
-La proposition subordonée consécance: c'est avec eux que je me façonne tant bien que mal une idée de ma destinée d'homme
-La proposition subordonée Compraison :comme il arrive souvent, c'est ce que je n'ai pas été
-
+l24: quand je considère ma vie = De temps 
+l32: Comme il arrive souvant
 #### Texte 2 148-149
-La proposition subordonée Compraison : secrète comme une complicité
-La proposition subordonée Compraison: elle est aussi glacée que les théories que j'ai pu élaborer sur les nombres
-La proposition subordonée Compraison: c'est avec eux que je me façonne tant bien que mal une idée de ma destinée d'homme
-La proposition subordonée conssecion: Il m'arrive de penser que les grands hommes se caractérisent justement par leur position extrême
+
+l31: Si les homme mettair a son service une partie de l'énergie qui dépense en traveau stupide et féroce : Propotion circonstantiel a condition
 
 #### Texte 3 307-308
-La proposition subordonée Compraison : quand je pensais à ma propre fin, comme un pilote, insoucieux pour soi-même 
+
+
+La proposition subordonée temps : quand je pensais à ma propre fin, comme un pilote, insoucieux pour soi-même 
 La proposition subordonée Compraison: j'ai compensé comme je l'ai pu cette mort précoce
+
+
+
+----
+
+# Exo en cours
+
+- Je pense que les vacances seront reposantes    -> Completive
+- Je pense aux vacances que nous avouns passé l'années dernière    -> Relative
+Je me repose généralement pendant que vous êtes au travail     -> Conjonctive à valeur circonstenstielle
+
+

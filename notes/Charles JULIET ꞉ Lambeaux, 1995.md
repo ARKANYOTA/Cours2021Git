@@ -2,7 +2,7 @@
 tags: [Francais/Travaux sur textes]
 title: 'Charles JULIET : Lambeaux, 1995'
 created: '2021-01-31T19:58:22.539Z'
-modified: '2021-02-01T13:07:49.269Z'
+modified: '2021-02-11T16:13:58.132Z'
 ---
 
 # Charles JULIET : Lambeaux, 1995
@@ -302,6 +302,17 @@ Suite de l’énumération/Gradation et Parallélisme:
 “ceux et celles qui n’ont jamais pu surmonter une fondamentale détresse.” 
 >> parallélisme (anaphore non?) => “ceux et celles” >> tous les gens qui ne peuvent pas s’exprimer 
 
+# Lecture linéaire lambeau:
+
+Lambeau -> Grefe, morceau
+1er partie, vie mère biologique -> réussi retrouver ses traces
+2e enfance passé apres famille adoptive
+deniere partie du livre
+
+mouvement
+l. 1-9 portrait des 2 mêre
+l. 10-22: projet autobiographique
+l. 23-33: géméralisation de l'homage a tous les opprimées
 
 
 

@@ -1,7 +1,8 @@
 ---
+deleted: true
 title: Cahier de Txt
 created: '2021-01-25T13:49:20.137Z'
-modified: '2021-01-25T17:47:32.405Z'
+modified: '2021-03-18T06:56:11.002Z'
 ---
 
 # 00. Cahier de Txt

@@ -1,7 +1,8 @@
 ---
+deleted: true
 title: LSF
 created: '2021-01-10T14:28:41.095Z'
-modified: '2021-01-12T21:49:00.059Z'
+modified: '2021-03-18T06:56:18.301Z'
 ---
 
 # LSF

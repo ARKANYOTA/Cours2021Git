@@ -1,8 +1,8 @@
 ---
+tags: [Anglais]
 title: CO n°1
-tags: [Anglais/CO]
 created: '2020-11-01T12:56:46.189Z'
-modified: '2020-11-01T12:59:57.286Z'
+modified: '2021-03-18T16:32:25.647Z'
 ---
 
 # CO n°1

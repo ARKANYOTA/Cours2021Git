@@ -1,8 +1,8 @@
 ---
+tags: [Anglais]
 title: 'I) INTRODUCING THE TOPIC: BRAINSTORMING'
-tags: [Anglais/Exo]
 created: '2020-10-31T16:58:36.645Z'
-modified: '2020-11-01T13:13:27.273Z'
+modified: '2021-03-18T16:37:34.738Z'
 ---
 
 # I) INTRODUCING THE TOPIC: BRAINSTORMING

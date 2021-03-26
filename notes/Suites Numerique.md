@@ -2,7 +2,7 @@
 tags: [Maths/4.Vecteurs, Maths/5.SN]
 title: Suites Numerique
 created: '2021-03-12T07:21:20.329Z'
-modified: '2021-03-12T07:49:54.540Z'
+modified: '2021-03-26T08:00:40.965Z'
 ---
 
 # Suites Numerique
@@ -22,5 +22,20 @@ h(n+1) = \sqrt{1+h²_n}\\
 \text{suite récurrente (retour en arrière)}
 $$
 
-## 4.
+## Croissante
 
+### Méthode 2
+
+Si $u_n > 0$ alors $u_{n_n+1}/u_n -1 > 0$
+$u_n$ est strictement croissante
+
+Preuve:
+$$
+u_n \text{est strictement croissante} \\
+u_n+1 - u_n > 0 \\
+u_n*(u_n+1/u_n-1) > 0\\
+u_n+1/u_n - 1 > 0
+$$
+
+### Méthode 1:
+$\frac{u_{n+1}}{2^n+1} - \frac{n}{2^n}$

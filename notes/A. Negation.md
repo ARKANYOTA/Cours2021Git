@@ -2,7 +2,7 @@
 tags: [Francais]
 title: A. Negation
 created: '2021-03-25T22:11:04.568Z'
-modified: '2021-03-25T22:12:31.632Z'
+modified: '2021-03-26T13:10:08.107Z'
 ---
 
 # A. Negation
@@ -20,14 +20,14 @@ Ex. : Pierre aime manger des prunes. → Pierre n'aime manger que des prunes.
 * Dites si les négations des phrases suivantes sont totales ou partielles.
 1. Patricia n'a pas terminé l'écriture de son roman. -> totale
 2. Aristide n'est pas arrivé à huit heures. -> partielles(8h)
-3. On n'est jamais si bien servi que par soi-même. -> totale
-4. Flora n'a pas eu de chance : elle s'est fait voler son sac! -> partielle(chance)
-5. Yannick ne se rend plus au théâtre depuis quelques mois.  -> totale
+3. On n'est jamais si bien servi que par soi-même. -> partielle(soi-même)
+4. Flora n'a pas eu de chance : elle s'est fait voler son sac! -> totale car sepation entre les 2 phrases
+5. Yannick ne se rend plus au théâtre depuis quelques mois.  -> patielle (qq mois)
 
 ## 3
 ** Réécrivez ces phrases négatives en phrases affirmatives, sans employer la forme négative (ne… pas/point, etc.). Vous devrez utiliser des antonymes ou des mots dérivés.
 Ex. : Je ne sais pas s'il passe me chercher. → J'ignore s'il passe me chercher.
-1. J'ignore si je peux vraiment t'aider.
+1. C'est impossible pour moi de t'aider.
 2. Franck doute à ce que dit Gaby.
 3. Émile Zola était inconue lorsqu'il projeta d'écrire Les Rougon-Macquart.
 4. Les ventes à la sauvette sont illégales en France.
@@ -40,7 +40,7 @@ Ex. : Je ne sais pas s'il passe me chercher. → J'ignore s'il passe me chercher
 b. Que permettent-elles de comparer ?
 
 Cher Daniel,
-Ma lettre va bien te surprendre. **Tu ne te doutais pas, hein**() ? que je fusse à Paris depuis quinze jours. J'ai quitté Lyon sans rien dire à personne,un coup de tête… […] Ici du moins **il ne fait pas toujours du brouillard**(comparaison de la où il était et là où il va) ; il pleut bien quelquefois mais c'est une bonne petite pluie gaie, mêlée de soleil, et comme **je n'en ai jamais vu ailleurs**(Temps de l'endroit au autres endroit que il a visiter). Aussi, je suis tout changé ; si tu savais, **je ne pleure plus du tout**(Compare le fait que il pleurait avant à maintenant où il pleure plus).
+Ma lettre va bien te surprendre. **Tu ne te doutais pas, hein**() ? que je fusse à Paris depuis quinze jours. J'ai quitté Lyon **sans rien dire à personne**,un coup de tête… […] Ici du moins **il ne fait pas toujours du brouillard**(comparaison de la où il était et là où il va) ; il pleut bien quelquefois mais c'est une bonne petite pluie gaie, mêlée de soleil, et **comme je n'en ai jamais vu ailleurs**(Temps de l'endroit au autres endroit que il a visiter). Aussi, je suis tout changé ; si tu savais, **je ne pleure plus du tout**(Compare le fait que il pleurait avant à maintenant où il pleure plus).
 Alphonse Daudet, Le Petit chose, 1868.
 ## 5
 *** a. Relevez toutes les phrases négatives de cet extrait et précisez les classes grammaticales

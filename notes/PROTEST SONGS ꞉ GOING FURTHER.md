@@ -2,7 +2,7 @@
 tags: [Anglais/3emeT]
 title: "PROTEST SONGS\_: GOING FURTHER"
 created: '2021-03-25T22:13:56.288Z'
-modified: '2021-03-25T22:41:04.167Z'
+modified: '2021-03-26T09:03:13.641Z'
 ---
 
 # PROTEST SONGS : GOING FURTHER
@@ -43,3 +43,28 @@ And peapole with alzheimer and dementia can have recovered memories
 6/Quote two potential effects of music therapy:
 - kick addition 
 - painkiller
+
+
+---
+
+cahnging brain chamestery, relation chip with musi beat music beathearth and breathing try match, 
+pleasant music =boostW> Serotonin, 
+unse both emisphare of braine, load music, hippocampus, song back memorys,
+magical power of music, 90db reduce your mlental phisical reaction, increesae alchool sales, making friends and party is 120db, body function, 
+painkiller et kick addiction, 
+
+--- 
+D News, reserch  songbirds like humain, good feling : seratonin, use both hemethspher more, load thinking, hipocamp : memory, 
+dumb desicion nightclub, reserch document. 
+
+---
+
+Anthony carbony, weave of beat music, daily activity, problem solve, engage hippocamp, recover memory, dowside, dumb desiction at night club, new friend, mental, istn your falt,  
+cant deny, (below and subscripe)
+
+Wired to = conecté à
+Match = se syncronyser, 
+trigger = declancher
+songbirds, hippocampus, chemistery,, 
+bring back mémories: ramener des souvenir, 
+

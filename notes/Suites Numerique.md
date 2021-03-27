@@ -2,11 +2,26 @@
 tags: [Maths/4.Vecteurs, Maths/5.SN]
 title: Suites Numerique
 created: '2021-03-12T07:21:20.329Z'
-modified: '2021-03-26T08:00:40.965Z'
+modified: '2021-03-26T16:04:59.236Z'
 ---
 
 # Suites Numerique
 
+# SUITES NUMERIQUE:
+  - Suites récurantes
+    - u_{n+1} = 3u(n)+5 et u(0) = 42
+  - Suites explicites
+    - u_n = 3n
+  - suite strictement croissante (ou décroissantes)
+    - Métheode 1
+      - u_{n+1}-u_n > 0 croissante
+      - u_{n+1}-u_n < 0 décroissante
+    - Methode 2:
+      - Si $u_n > 0$; $u_{n_n+1}/u_n -1 > 0$ croissante
+  - Limite de suites
+    - lim u_n
+    - Le trableau au dessus
+    
 ## 3.
 $$
 h_0 = 3 = \sqrt{9} \\
@@ -39,3 +54,17 @@ $$
 
 ### Méthode 1:
 $\frac{u_{n+1}}{2^n+1} - \frac{n}{2^n}$
+
+---
+
+
+| $u_n$ | $1/n$ | $1/n²$ | $1/n³$ | $1/\sqrt n$ | $\sqrt n$ | $n$ |
+|-----|-----|------|-----|----------|------|-----|
+| $lim\;  u_n$ | 0 | 0    | 0   | 0    | $+\infin$ | $+\infin$ |
+
+| $u_n$ | n² | n³ | 
+|-----|-----|------|
+| $lim \; u_n$ | $+\infin$ | $+\infin$    |
+
+
+

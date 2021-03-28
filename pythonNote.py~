@@ -35,9 +35,7 @@ while True:
     print("\033[2J\033[1;1H--------------------------------")
     for i in range(min(os.get_terminal_size()[1]-2, len(info.keys()))):
         print(list(info.keys())[i])
-    if input()=="e":
-        exit()
-
+    input()
 #     print(list(val.keys()))
 #while key!="\x03":
 #    key = getkey()

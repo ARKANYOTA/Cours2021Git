@@ -2,7 +2,7 @@
 tags: [Maths/5.SN]
 title: Exo suite num
 created: '2021-01-20T16:40:11.801Z'
-modified: '2021-03-26T15:45:58.247Z'
+modified: '2021-03-30T09:27:15.560Z'
 ---
 
 # Exo suite num
@@ -12,7 +12,7 @@ modified: '2021-03-26T15:45:58.247Z'
 u_n = 1/n + 2
 lim u_n = 2
 
-u_n = 5*(-0.8)^n 
+u_n = 5 x (-0.8)^n 
 lim u_n = 0
 
 u_n = (-1)^n est sans limites
@@ -50,4 +50,8 @@ $u_{100} ~= -2.81$
 
 
 $lim \; u_n = -3$ 
+
+---
+
+
 

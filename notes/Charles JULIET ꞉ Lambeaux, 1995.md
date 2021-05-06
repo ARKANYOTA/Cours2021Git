@@ -2,7 +2,7 @@
 tags: [Francais/Travaux sur textes]
 title: 'Charles JULIET : Lambeaux, 1995'
 created: '2021-01-31T19:58:22.539Z'
-modified: '2021-02-11T16:13:58.132Z'
+modified: '2021-05-04T13:47:11.468Z'
 ---
 
 # Charles JULIET : Lambeaux, 1995
@@ -12,8 +12,6 @@ Le combat est differant de celui De Hadrien, Mais il en mêne un et l'exprime,
 Ils mênent tout 2 un combat avec obstination pour les autres(Ses mêre ou les gents)
 
 Vous avez choisi c'est textes car il sont assez resmblant au mémoires d'hadiren et abordent les même sujets(Pas forement sous le même angle), Les autheurs définisent leurs vie, et les resumes
-
-
 
 ```
 

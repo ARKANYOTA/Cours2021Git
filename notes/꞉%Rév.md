@@ -2,7 +2,7 @@
 tags: [Francais/Disertation]
 title: ':%Rév'
 created: '2021-05-04T13:39:10.244Z'
-modified: '2021-05-06T20:27:58.828Z'
+modified: '2021-05-27T15:13:04.049Z'
 ---
 
 # :%Rév
@@ -778,5 +778,167 @@ Problématique :
 Analyse Linéaire :
 
 
+
+
+
+
+----
+
+# Jean luc lagarce Juste la fin du monde
+
+Mouvements:
+    1. L’annonce de la mort du narrateur (Louis) (l1 - l11)
+    2. Passage du temps & description des intentions de Louis (l12 - l31)
+
+    1. Annonce mort (l1 - l10)
+    2. Mise en attente et réflexion sur son passé (l11 - l25)
+    3. Exprime son objectif (l.32 - 43)
+
+
+Problématique:
+
+Comment le prologue formule-t-il l'incapacité du narrateur face à sa situation ?
+
+
+Introduction:
+
+Dans ce passage de l'œuvre, Lagarce nous raconte son incapacité à agir face à cette situation qu’il est en train de vivre, qu’il ne peut rien faire face à la maladie. C’est pour cela que nous pouvons nous poser la question de Comment le narrateur parvient-il à nous décrire son incapacité face à sa situation ? Ce texte est donc composé de deux mouvements, dans le premier dans lequel Louis annonce sa mort inévitable et dans le second la description de ses intentions.
+
+
+Premier mouvement - Annonce mort - (Début - “vous détruirait aussitôt”) (l.1 - l.10): 
+
+l. 1 - 2: “plus tard, l’année d’après j’allais mourir à mon tour” → “à mon tour” est une vérité générale qui montre que tout le monde meurt. => banalisation de la mort
+
+“j’allais mourir à mon tour” entre tiret et met cette phrases en valeur, “allais” à l’imparfait → tournure phrase donne l'impression présent futur proche → mort imminente / prosopopé"
+
+“allais” pourrait être aussi lû à l’imparfait et donc être une action au passé => prosopopée
+
+Champ lexical du temps pour souligner le memento mori partout:  “Plus tard”, “année”, “après”, “mourir”, “trente-quatre ans”, “année”.
+
+Un champ lexical pessimiste « mourir » (l.2, 4), « peur » (l.14), « sans espoir jamais de survivre » (l.15) et des tournure de phrases négatives “l20” “n’ai-je pas toujours été” => inspire le désespoir
+
+l. 3: “et c’est à cet âge que je mourrai” => mise en évidence de cette prise de conscience, on comprend que le narrateur est résigné à mourir avec l’accumulation de “c’est” et “cet”
+
+l. 4 - 5: Anaphore de “de nombreux mois” → nous montre ici que cela fait déjà de nombreux mois qu’il en est conscient et accentue le rapprochement de la mort. 
+
+Répétition de “l’année d’après” aux lignes 1, 4, 7, 12 et 17 qui vient nous rappeler que la date de son décès approche rapidement. Anaphore
+
+l8: verbe de mouvement “bouger”
+
+Dans les dernières lignes de ce mouvement (lignes 10 - 11), le narrateur nous exprime ce qu’il ressent vis-à-vis de ce qu’il ressent face à cette menace qui le guette et qui mettra inévitablement fin à ses jours dans un futur proche. Pour cela il fait une personnification de sa maladie en utilisant des mots tel que “réveillerait” et “l’ennemi”
+
+L’ennemi est une allégorie du rappel de la mort, ce n’est pas la maladie qui le fait souffrir en soi mais le rappel qu’il va mourir, malgré toute la banalisation de la mort opérée dans les lignes précédentes on comprend qu’il n’a pas tout à fait accepté la mort
+
+Second mouvement - Mise en attente et réflexion sur son passé et annonce de ses intentions (l11 - l25)
+
+idée du temps qui passe:
+
+anaphore: “l’année d'après”, et “malgré tout.” → idée du passage du temps, et du regret, de la réflexion sur son passé! Renvoie aux 2 premières lignes → “j’allais mourir à mon tour” 
+ → sert de transition entre deux thèmes
+
+Beaucoup d’énumérations, de pauses et virgules: rythme lent au texte → l’ennui / l’impatience
+
+Une syntaxe un peu désorientée qui rend difficile le texte à lire, qui évoque que le personnage à du mal à s'exprimer.
+
+gradation: l.19 “lentement‚ calmement‚ d’une manière posée” temps qui ralentit, décélère
+
+l.20 question rhétorique “n’ai-je pas toujours été un homme posé” → réflexion sur son passé
+
+l.11-25 le COD “ma mort prochaine et irrémédiable” est repoussé à chaque fois, puis mis le plus loin possible → effet d’attente et permet l’introduction d’autres thèmes lors de cette réflexion 
+
+l.16 “retourner”, “revenir”, “aller sur mes pas”, “traces → lexique du passé, retour en arrière 
+
+l.17 allitérations en ‘L’ et ‘M’: “je décidai de retourner les voir; revenir sur Mes pas, aller sur Mes traces et faire Le voyage; pour annoncer, LenteMent” ... L.19 “Lentement, caLMeMent, d’une Manière posée” => correspond à la lenteur du temps qui passe, au temps qui se ralentit 
+
+accumulation: “je décidai de retourner les voir‚ revenir sur mes pas‚ aller sur mes traces et faire le voyage‚ pour annoncer‚ lentement‚ avec soin‚ avec soin et précision”
+
+accumulation: “pour annoncer‚ dire‚ seulement dire”
+
+gradation: “moi-même et d’être, jusqu’à cette extrémité, mon propre maître.”
+
+responsabilité: “l’unique messager” , “voulu” → volonté personelle; 
+
+Conclusion:
+
+Pour conclure, le narrateur nous décrit son incapacité à travers le fait qu’il sait qu’il va mourir et la date à laquelle son décès aura lieu, à cause de sa maladie qu’il va personnifier en tant qu’ennemi qui l’empêche de vivre. Le prologue sert donc à annoncer la problématique de la pièce et ses enjeux. Tout comme dans Mémoires d’Hadrien, le protagoniste sait sa mort prochaine et cela va l’obliger à renouer des liens avec son passé.
+
+--
+Juste la fin du monde correction.
+
+Monologue de louis, Prologue (Pro et Logos => avant le propos)
+
+Heritage clasique dans du théthre qui a une forme contemporaine, prologue composé d'une seul phrase.
+
+Mouvement: 
+l1: L'année d'apres
+l2: la déscision
+l3: la volonté de garder le pouvoir
+
+problematique: comment ce prologue anonce la pièce à venir?
+
+La piece commance par 2 complemet circonstentiel de temps, futur anoncé, un futur dans la passe "jamais passé"
+presant : 34ans maintenant
+puis: futur,
+
+"Le pays lointain", 1999: referance a ce texte; l'anée d'apres fait réferance a la mort de son amante morte de la même maladie que lui le SIDA, avec le complement de temps.
+l'indication du temps tres présant indique que le temps sera teès important dans cette pièce.
+
+On se demande si il parle pas deja mort, ce qui est une prosopopé
+
+a peine, malgré tout, il espere lui même de s'annalisé
+presance de danger, fin passage, danger extreme, la peur, 
+
+repetition de j'attandait, parralelisme de construction, attante passivite attante confirme le passage trajgique, on observe les negation, sans espoir de jamais survivre, tout espoir, sans jamais
+
+repetion de malgré tout qui modifie le discour qui est porter, 
+
+
+Mouvement 2:
+
+ce passage, je devider d'aler les voir,
+rupture avec la tonalité du passage précedant, avec le verbe je décidait qui montre ici une volonté de la part du personnage, refus de se soumettre au tragique de la mort, alternance rithmique de passage long et passage brefs qui donne une solennité(,??) au passage, 
+
+un personage build sur son calme, et un question rethorique négative, qui revele un character calme, 
+prefixe re
+desicition marquer pas un passage, et temporelle, par des expresion qui montre un déplacement, 
+
+retade l'anonce de sa morte qui apparait a la fin, avec soin.
+
+entre les deux on a des compelement circonstentielle de maginere
+et nous explique par une epharnorthose, et par des enumeration ,, 
+repetion de lentement, 
+enumeration sur le ton que il va utlisier et a eux, 
+autre -> perso de la piece
+
+verbe dire, 
+pour annoncer et le verbe dire
+dire = banale et annoncer = express
+
+et il utilise le verbe dire emplifier par seulement, et montre que ce monment soit pas olanel et soit banale faire referance au titre, 
+
+Il veut contrer l'aspect tragique, 
+repetion de toujours, on remarque un force presance, 
+referance au autre et eux, 
+le spectateur, address a eux, confusion entre les spectateur et les perssonges
+
+annonce qui sadresse au spectateur a qui je ne conais pas encore, a tout le monde, 
+
+les dernieres lignes, porte ur le fait de restermaitre de son image, qui montre que il est pas dupe et qui montre que il est maitre de rien, 
+
+Il ne controle pas sa parole
+
+
+en conclusion: 
+  ce texte , prologue annonce la tragedie qui s'appoche avec le terme de la mort ave cla manipulation de la parole
+
+---
+
+Scene 1, Truc 2;
+
+Mouvement: 
+1
+2
+
+littote sur je ne deteste pas ce prenom
 
 

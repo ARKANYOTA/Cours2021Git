@@ -1,11 +1,11 @@
 ---
-tags: [Francais]
-title: A. Negation
+tags: [Français]
+title: A. Négation
 created: '2021-03-25T22:11:04.568Z'
 modified: '2021-03-26T13:10:08.107Z'
 ---
 
-# A. Negation
+# A. Négation
 ## 1) 
 Renversez ces affirmations en utilisant la négation restrictive tout en conservant un sens proche. Puis, expliquez la nuance de sens qui existe entre vos propres phrases et celles de l'exercice.
 
@@ -29,7 +29,7 @@ Ex. : Pierre aime manger des prunes. → Pierre n'aime manger que des prunes.
 Ex. : Je ne sais pas s'il passe me chercher. → J'ignore s'il passe me chercher.
 1. C'est impossible pour moi de t'aider.
 2. Franck doute à ce que dit Gaby.
-3. Émile Zola était inconue lorsqu'il projeta d'écrire Les Rougon-Macquart.
+3. Émile Zola était inconnue lorsqu'il projeta d'écrire Les Rougon-Macquart.
 4. Les ventes à la sauvette sont illégales en France.
 5. Il est inutile de bousculer pour entrer !
 6. La municipalité a oublié la question du logement.
@@ -37,7 +37,7 @@ Ex. : Je ne sais pas s'il passe me chercher. → J'ignore s'il passe me chercher
 
 ## 4
 ** a. Relevez les phrases à la forme négative dans cette lettre. 
-b. Que permettent-elles de comparer ?
+b. Que permettent-t-elles de comparer ?
 
 Cher Daniel,
 Ma lettre va bien te surprendre. **Tu ne te doutais pas, hein**() ? que je fusse à Paris depuis quinze jours. J'ai quitté Lyon **sans rien dire à personne**,un coup de tête… […] Ici du moins **il ne fait pas toujours du brouillard**(comparaison de la où il était et là où il va) ; il pleut bien quelquefois mais c'est une bonne petite pluie gaie, mêlée de soleil, et **comme je n'en ai jamais vu ailleurs**(Temps de l'endroit au autres endroit que il a visiter). Aussi, je suis tout changé ; si tu savais, **je ne pleure plus du tout**(Compare le fait que il pleurait avant à maintenant où il pleure plus).
@@ -72,7 +72,7 @@ Sganarelle. – **Ne m'en parlez point**.
 Lisette. – Un mari.
 Sganarelle. – **Ne m'en parlez point**.
 Lisette. – Un mari, un mari, un mari.
-Molière, L'Amour médecin, I, 3, 1665.
+Molière, L'amour médecin, I, 3, 1665.
 
-L'alternance montre le pronfond désacord de Sgnarelle, et je pense que oui il participe au comic de la scene
+L'alternance montre le profond désaccord de Sgnarelle, et je pense que oui il participe au comic de la scene
 

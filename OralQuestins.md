@@ -1,0 +1,25 @@
+- Pourquoi est-ce de cette œuvre que vous avez souhaité parler lors de votre oral ?
+- Qu’a provoqué chez vous la lecture de cette œuvre ? (Vous a-t-elle fait changer ? En quoi ? Vous a-t-elle fait réfléchir ? À quoi ? Vous a-t-elle ému(e) ? Pourquoi ?)
+- Comment vous êtes-vous senti(e) au moment où vous acheviez la lecture ?
+- Que pensez-vous de la fin de l’œuvre ?
+- Avez-vous eu envie d’imaginer un autre dénouement / une autre conclusion ?
+- Avez-vous trouvé facile d’entrer dans l’œuvre ?
+- Que pensez-vous du début de l’œuvre ?
+- À quel personnage trouvez-vous que l’on puisse le plus s’attacher ? Pourquoi ?
+- Quelle action du personnage vous a le plus impressionné(e) ?
+- Quelle idée avancée par l’auteur vous interpelle le plus ?
+- Avez-vous des points de désaccord avec l’auteur / le narrateur / le personnage principal ?
+- Pourriez-vous imaginer un autre titre pour cette œuvre ?
+- Si vous étiez éditeur et que vous deviez choisir une illustration pour la première de couverture, qu’auriez-vous envie de proposer ?
+- À quelle musique auriez-vous envie d’associer l’œuvre ?
+- Quelles activités d’appropriation avez-vous conduites sur cette œuvre ? En quoi cela vous a-t-il permis d’en mieux percevoir les enjeux ? / de mieux comprendre le personnage / de mieux comprendre les intentions de l’auteur ?
+- Quel passage de l’œuvre vous a le plus marqué(e) ? Pourquoi ?
+- Dans dix ans, si vous ne vous souvenez que d’un détail ou de quelques éléments de l’œuvre, de quoi s’agira-t-il à votre avis ?
+- Pensez-vous que l’œuvre aurait pu être écrite à une autre époque / à notre époque ?
+- En quoi cette œuvre peut-elle encore intéresser un lecteur contemporain ?
+- Avez-vous trouvé la lecture de l’œuvre aisée ? Pourquoi ?
+- Pensez-vous que vous seriez capable de reconnaître une autre œuvre du même auteur ? À quoi ?
+- Quels liens avez-vous perçus entre cette œuvre et [telle autre figurant dans le descriptif] / entre cette œuvre et des lectures personnelles ?
+- Si vous étiez enseignant, choisiriez-vous de faire lire cette œuvre à vos élèves ? Pourquoi ?
+- Et à vous, que vous a apporté la lecture de cette œuvre ?
+- [Le cas échéant] Que vous a apporté l’étude de cette œuvre par rapport à votre première lecture ?

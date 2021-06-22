@@ -51,15 +51,6 @@ l1-25 = culte officiel d'Antinous
 l26-35 = Un culte devenu naturel
 l36-47 = Imirtalité d'Antinous
 
-
-
-
-## Lecture lineaire dans chaque partie:
-l1-25 = culte officiel d'Antinous
-l26-35 = Un culte devenu naturel
-l36-47 = Imirtalité d'Antinous
-
-
 Départie = accordée
 Hermès = messager des dieux
 Limitrophes = Qui est aux frontières
@@ -160,7 +151,7 @@ L9-23 : Énumération ; Hadrien décrit comment le culte a été porté à Antin
 - ‘qu’il a si peu gardé’ -> fait penser à un sentiment de nostalgie, de regret
 
 - ‘périr une seconde fois’, ‘immortalité’ antithèse
-L36-38 : comparaison d’Hadrien avec un capitaine de navire : il ne se soucie pas de sa mort, mais des conséquences de sa mort sur la mémoire d’Antinoüs
+L36-38 : comparaisoin d’Hadrien avec un capitaine de navire : il ne se soucie pas de sa mort, mais des conséquences de sa mort sur la mémoire d’Antinoüs
 L39-42 comparaison de l’oubli à la mort : « périr une seconde fois » : peur de l’oubli d’Antinoüs
 L42-46 : comparaison du culte avec « image, un reflet, un faible échos » : gradation : de moins en moins précis 
 

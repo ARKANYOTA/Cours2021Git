@@ -1,7 +1,7 @@
 ---
 title: les adjectif numeraux sont invariable sauf 20 et 100
 created: '2020-11-23T18:23:59.864Z'
-modified: '2021-05-17T17:23:45.079Z'
+modified: '2021-06-28T17:05:36.845Z'
 ---
 
 # les adjectif numeraux sont invariable sauf 20 et 100
@@ -52,3 +52,15 @@ derrière
 ei = ai
 eil != ail (a-il)
 
+---
+
+
+grommeler
+condamné
+a la ridelle/aux ridelles
+char, chariot, charrette
+
+
+bailli
+prévôt
+les vivats: 
